@@ -1,16 +1,6 @@
 ---
-title: 指南
-icon: lightbulb
+title: DRGS 玩家攻略站
 ---
 
-## 功能亮点
 
-### Bar
-
-- [baz](bar/baz.md)
-- ...
-
-### Foo
-
-- [ray](foo/ray.md)
-- ...
+这是一个玩家自建的DRGS攻略站，注意攻略可能已经过时了，请注意查看时间，玩家群:703595556(qq)欢迎加入

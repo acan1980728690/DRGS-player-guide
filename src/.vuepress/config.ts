@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "DRGS玩家攻略站",
+  description: "游戏《深岩银河：幸存者》的中文攻略站，攻略内容来源于wiki,discord以及玩家编写等",
 
   theme,
 

@@ -4,15 +4,24 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
+  //TODO
+  //要部署到的域名
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
+  //默认作者
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "acan",
+    url: "https://acan1980728690.github.io/",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  //网站logo
+  logo: "/test.jpg",
 
+  //网站favicon
+  favicon: "/test.jpg",
+
+  //TODO
+  //仓库连接
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
@@ -22,20 +31,19 @@ export default hopeTheme({
 
   // 侧边栏
   sidebar,
-
   // 页脚
-  footer: "默认页脚",
+  footer: "玩家qq群:703595556",
   displayFooter: true,
 
   // 加密配置
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": {
+  //       hint: "Password: 1234",
+  //       password: "1234",
+  //     },
+  //   },
+  // },
 
   // 多语言配置
   metaLocales: {
