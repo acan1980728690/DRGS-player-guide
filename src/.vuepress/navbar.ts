@@ -9,7 +9,7 @@ export default navbar([
       {
         text: "武器攻略",
         prefix: "weapon/",
-        children: ["",],
+        children: ["rank.md",],
       },
     ],
   },
