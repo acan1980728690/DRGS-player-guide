@@ -4,7 +4,7 @@ icon: home
 comment: false
 title: 主页
 # 网站logo
-heroImage: /test.jpg
+heroImage: /logo.png
 heroImageStyle:  
   border-radius: 20%
   border: "5px solid rgba(255, 255, 255, 0.3)"

@@ -15,10 +15,10 @@ export default hopeTheme({
   },
 
   //网站logo
-  logo: "/test.jpg",
+  logo: "/logo.png",
 
   //网站favicon
-  favicon: "/test.jpg",
+  favicon: "/logo.png",
 
   //TODO
   //仓库连接
