@@ -22,7 +22,7 @@ export default hopeTheme({
 
   //TODO
   //仓库连接
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "acan1980728690/DRGS-player-guide",
 
   docsDir: "src",
 
