@@ -1,6 +1,7 @@
 ---
 title: 资源
 tags: [资源]
+order: 6
 ---
 
 > 此篇内容来自于[DRGS官方wiki](https://deeprockgalactic.wiki.gg/wiki/Survivor:Main)，google翻译

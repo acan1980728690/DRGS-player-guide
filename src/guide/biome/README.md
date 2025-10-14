@@ -2,6 +2,8 @@
 title: 生态区域
 category: 生态区域
 tags: [生态区域]
+dir:
+  order: 4
 ---
 
 > 此篇内容来自于[DRGS官方wiki](https://deeprockgalactic.wiki.gg/wiki/Survivor:Main)，google翻译
