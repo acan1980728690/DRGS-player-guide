@@ -10,7 +10,6 @@ order: 2
 
 ## 描述
 
-待补充
 
 ![tier_1_grunt](./image/tier_1_grunt.png)
 ![tier_2_grunt](./image/tier_2_grunt.png)

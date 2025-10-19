@@ -10,7 +10,6 @@ order: 4
 
 
 ## 描述
-11
 
 ![elite_slasher](./image/elite_slasher.png)
 ![elite_praetorian](./image/elite_praetorian.png)

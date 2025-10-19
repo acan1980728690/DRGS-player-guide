@@ -6,7 +6,7 @@ dir:
   order: 4
 ---
 
-> 此篇内容来自于[DRGS官方wiki](https://deeprockgalactic.wiki.gg/wiki/Survivor:Main)，google翻译
+> 此篇内容来自于[DRGS官方wiki](https://deeprockgalactic.wiki.gg/wiki/Survivor:Main)
 
 目前，DRGS中一共有五个生态区域：水晶洞穴，熔岩之心，藤络树洞，盐坑，蔚蓝花甸
 
