@@ -62,8 +62,7 @@ order: 6
 | ![  =50x50 ](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% Piercing<br>+30% Damage<br>-30% Fire Rate | Adds more damage and piercing, at the cost of fire rate |
 | ![  =50x50 ](../../overclock/image/Knockback.png) | Rubber Tip | +15% Damage<br>+Knockback | Knock back enemies |
 | ![  =50x50 ](../../overclock/image/StormEmag.png) | Storm E-Mag | +10% Reload Speed<br>+10% Fire Rate | The Last bullet fires in all direction |
-| ![  =50x50 ](../../overclock/image/BeamSpread.png) | The Tightest of Springs | +125% Fire Rate<br>-15 Accuracy | — |
-
+| ![  =50x50 ](../../overclock/image/ProjectileSpread.png) | The Tightest of Springs | +125% Fire Rate<br>-15 Accuracy | — |
 
 ## 推荐攻略
 

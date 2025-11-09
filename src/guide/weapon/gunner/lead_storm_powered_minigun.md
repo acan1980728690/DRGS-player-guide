@@ -62,7 +62,7 @@ order: 1
 | ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% Fire Rate<br>+25% Reload Speed | Increase fire rate and reload speed |
 | ![  =50x50 ](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% Piercing<br>+30% Damage<br>-30% Fire Rate | Adds more damage and piercing, at the cost of fire rate |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | Pan Fried Shells | Change the damage type to [FIRE] | — |
-| ![  =50x50 ](../../overclock/image/Armor.png) | Reload Shield | -25% Reload Speed<br>+25% Fire Rate<br>While reloading: +100% Armor | Doubles your Armor while the weapon is reloading |
+| ![  =50x50 ](../../overclock/image/Armor_2.png) | Reload Shield | -25% Reload Speed<br>+25% Fire Rate<br>While reloading: +100% Armor | Doubles your Armor while the weapon is reloading |
 | ![  =50x50 ](../../overclock/image/Medium.png) | Lead Wrapped Ammo | +150% Damage<br>-20% Fire Rate<br>-20% Reload Speed | — |
 | ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +100% Damage<br>+100% Fire Rate<br>All other weapons:<br>-30% Damage<br>-30% Fire Rate | You really like this one. |
 ## 推荐攻略

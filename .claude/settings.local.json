@@ -9,7 +9,8 @@
       "mcp__chrome-mcp__chrome_click_element",
       "mcp__chrome-mcp__chrome_get_interactive_elements",
       "mcp__chrome-mcp__chrome_screenshot",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "mcp__chrome-mcp__chrome_keyboard"
     ],
     "deny": [],
     "ask": []

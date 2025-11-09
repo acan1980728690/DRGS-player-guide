@@ -55,9 +55,9 @@ order: 8
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | A Little More Oomph! | +15% Damage<br>+25% Reload Speed | Increases damage and reload speed |
-| ![  =50x50 ](../../overclock/image/ZoneFire.png) | Incendiary Payload | — | Rockets set the ground on fire |
+| ![  =50x50 ](../../overclock/image/ZoneFire_2.png) | Incendiary Payload | — | Rockets set the ground on fire |
 | ![  =50x50 ](../../overclock/image/BiggerExplosions.png) | Runic Warhead | +50% Explosion Radius | Bigger explosions |
-| ![  =50x50 ](../../overclock/image/AddRockets.png) | Spare Rockets | +3 Clip Size | Add 3 more rockets |
+| ![  =50x50 ](../../overclock/image/AddRockets_2.png) | Spare Rockets | +3 Clip Size | Add 3 more rockets |
 | ![  =50x50 ](../../overclock/image/AddRockets.png) | Extra Rocket Drum | Add a lot more rockets | — |
 | ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +100% Damage<br>+100% Fire Rate<br>All other weapons:<br>-30% Damage<br>-30% Fire Rate | You really like this one. |
 

@@ -51,8 +51,8 @@ order: 9
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ZoneCryo.png) | Coolant Leak | — | Turrets slow nearby enemies |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | Disposable Tech | +100% Reload Speed<br>-50% Lifetime | Turrets explode when they are removed |
-| ![  =50x50 ](../../overclock/image/TurretCap.png) | Extra Capacity | +1 Turrets | Adds 1 extra charges |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Disposable Tech | +100% Reload Speed<br>-50% Lifetime | Turrets explode when they are removed |
+| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | Extra Capacity | +1 Turrets | Adds 1 extra charges |
 | ![  =50x50 ](../../overclock/image/TurretTracks.png) | Tank Tracks | — | The turrets will follow you around |
 | ![  =50x50 ](../../overclock/image/TurretCap.png) | Extra Capacity | +3 Turrets | Adds 3 extra charges |
 | ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +100% Damage<br>+50% Lifetime<br>All other weapons:<br>-30% Damage<br>-25% Lifetime | You really like this one. |

@@ -62,7 +62,7 @@ order: 7
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/DroneDefense.png) | Behaviour Chip: Defensive | +2 Extra Drones<br>-10% Weapon Range | Drones will circle around the player |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | Disposable Tech | +100% Lifetime<br>+40% Reload Speed | Drones explode instead of returning.<br />Lifetime upgrades now shorten the lifetime of the drones. |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Disposable Tech | +100% Lifetime<br>+40% Reload Speed | Drones explode instead of returning.<br />Lifetime upgrades now shorten the lifetime of the drones. |
 | ![  =50x50 ](../../overclock/image/Mining.png) | Drone Mining Damage | — | Drones now do damage to the terrain |
 | ![  =50x50 ](../../overclock/image/MoreDrones.png) | More Drones | +1 Extra Drones | Add more drones |
 | ![  =50x50 ](../../overclock/image/ZoneFire.png) | Fuel Leak | +20% Potency | Fire drones leave a trail of fire |
