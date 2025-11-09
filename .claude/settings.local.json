@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:deeprockgalactic.wiki.gg)",
+      "mcp__chrome-mcp__chrome_navigate",
+      "mcp__chrome-mcp__get_windows_and_tabs",
+      "mcp__chrome-mcp__chrome_get_web_content",
+      "mcp__chrome-mcp__search_tabs_content",
+      "mcp__chrome-mcp__chrome_click_element",
+      "mcp__chrome-mcp__chrome_get_interactive_elements",
+      "mcp__chrome-mcp__chrome_screenshot",
+      "Bash(cat:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
