@@ -64,7 +64,7 @@ order: 7
 | ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -30% 伤害 | The grenade now splits into 3 weaker versions |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Compact Explosives | +30% 爆炸半径 | Increase the size of explosions |
 | ![  =50x50 ](../../overclock/image/ReloadFireRate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase fire rate and reload speed |
-| ![  =50x50 ](../../overclock/image/Akimbo.png) | Akimbo | — | Shoots an additional time in the opposite direction |
+| ![  =50x50 ](../../overclock/image/OneHanded.png) | Akimbo | — | Shoots an additional time in the opposite direction |
 | ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +75% 伤害<br>+30% 爆炸半径<br>所有其他武器：<br>-25% 伤害<br>-20% 爆炸半径 | You really like this one. |
 
 

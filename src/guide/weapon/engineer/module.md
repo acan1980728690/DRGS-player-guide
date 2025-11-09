@@ -7,7 +7,7 @@ category:
     - 工程
 # 标签
 tags: [武器]
-index: true
+index: false
 ---
 
 ![武器名称](./image/test.png)

@@ -55,13 +55,11 @@ order: 2
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/DamageElectrical.png) | Battery Bullets | 改变伤害类型为[电击] | [Weapon] fires electrical bullets |
 | ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase fire rate and reload speed |
-| ![  =50x50 ](../../overclock/image/Range.png) | High Velocity Bullets | +50% 武器射程<br>+10% 伤害 | Increase the range of your projectiles |
+| ![  =50x50 ](../../overclock/image/RangeIncrease.png) | High Velocity Bullets | +50% 武器射程<br>+10% 伤害 | Increase the range of your projectiles |
 | ![  =50x50 ](../../overclock/image/DamagePlasma.png) | Plasma Coating | 改变伤害类型为[电浆] | [Weapon] fires plasma bullets |
-| ![  =50x50]( ../../overclock/image/Akimbo.png) | Akimbo | — | Shoots an additional time in the opposite direction |
-| ![  =50x50 ](../../overclock/image/ProjectileCount.png) | Mini Pellets | -10% 伤害<br>弹丸数x2 | Shotgun shells contain twice as many pellets, but they do less damage |
-
-
+| ![  =50x50]( ../../overclock/image/OneHanded.png) | Akimbo | — | Shoots an additional time in the opposite direction |
+| ![  =50x50 ](../../overclock/image/Minipellets.png) | Mini Pellets | -10% 伤害<br>弹丸数x2 | Shotgun shells contain twice as many pellets, but they do less damage |
+	
 ## 推荐攻略
-
 
 ## 贡献者
