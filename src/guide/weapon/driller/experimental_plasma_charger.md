@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: experimental_plasma_charger
+title: 实验性等离子蓄能手枪
 # 分类
 category: 
     - 武器

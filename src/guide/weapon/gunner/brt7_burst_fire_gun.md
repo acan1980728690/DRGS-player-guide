@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: brt7_burst_fire_gun
+title: BRT7 连发手枪
 # 分类
 category:
     - 武器

@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: hi-volt_thunderbird
+title: HI-VOLT “雷鸟”电击护卫无人机
 # 分类
 category: 
     - 武器

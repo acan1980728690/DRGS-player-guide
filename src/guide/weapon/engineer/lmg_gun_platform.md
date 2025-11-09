@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: lmg_gun_platform
+title: 轻机枪哨戒炮
 # 分类
 category: 
     - 武器

@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: deepcore_pgl
+title: 深核 40mm 便携式榴弹发射器
 # 分类
 category: 
     - 武器

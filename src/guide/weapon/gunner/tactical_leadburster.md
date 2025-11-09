@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: tactical_leadburster
+title: 战术铅暴雷
 # 分类
 category:
     - 武器

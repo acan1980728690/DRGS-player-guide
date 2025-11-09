@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: seismic_repulsor
+title: “地震冲击”重锤哨戒炮
 # 分类
 category: 
     - 武器

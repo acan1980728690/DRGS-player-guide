@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: lead_storm_powered_minigun
+title: “铅爆”转管机枪
 # 分类
 category: 
     - 武器

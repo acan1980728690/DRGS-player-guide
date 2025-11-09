@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: shard_diffractor
+title: 心石聚能炮
 # 分类
 category: 
     - 武器

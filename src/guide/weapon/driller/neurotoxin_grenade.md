@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: neurotoxin_grenade
+title: 神经毒素手雷
 # 分类
 category: 
     - 武器

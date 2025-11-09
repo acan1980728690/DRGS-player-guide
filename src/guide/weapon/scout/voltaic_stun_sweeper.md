@@ -1,5 +1,5 @@
 ---
-title: Voltaic Stun Sweeper
+title: 强电震击镖
 category: 
     - 武器
     - 侦察

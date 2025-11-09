@@ -1,5 +1,5 @@
 ---
-title: Arc-Tek Cryo Guard
+title: “Arc-Tek” 急冻护卫无人机
 category: 
     - 武器
     - 侦察
@@ -8,7 +8,7 @@ tags: [武器]
 order: 8
 ---
 
-![武器名称](./image/Arc-Tek_Cryo_Guard.png)
+![Arc-Tek Cryo Guard](./image/Arc-Tek_Cryo_Guard.png)
 
 ## 简介
 

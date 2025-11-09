@@ -1,5 +1,5 @@
 ---
-title: Jury-Rigged Boomstick
+title: 应急霰弹枪
 category: 
     - 武器
     - 侦察
@@ -8,7 +8,7 @@ tags: [武器]
 order: 3
 ---
 
-![武器名称](./image/Jury-Rigged_Boomstick.png)
+![Jury-Rigged Boomstick](./image/Jury-Rigged_Boomstick.png)
 
 ## 简介
 

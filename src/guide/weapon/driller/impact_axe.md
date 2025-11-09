@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: impact_axe
+title: 冲击战斧
 # 分类
 category: 
     - 武器

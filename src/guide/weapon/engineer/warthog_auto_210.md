@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: warthog_auto_210
+title: “疣猪”210自动霰弹枪
 # 分类
 category: 
     - 武器

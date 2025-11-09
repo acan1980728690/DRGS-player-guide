@@ -1,5 +1,5 @@
 ---
-title: Nishanka BoltShark X-80
+title: 尼桑卡X-80“闪电鲨”战术弩
 category: 
     - 武器
     - 侦察
@@ -8,7 +8,7 @@ tags: [武器]
 order: 10
 ---
 
-![武器名称](./image/Nishanka_Boltshark_X-80.png)
+![Nishanka BoltShark X-80](./image/Nishanka_Boltshark_X-80.png)
 
 ## 简介
 

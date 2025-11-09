@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: plasma_burster
+title: 电浆连爆雷
 # 分类
 category: 
     - 武器

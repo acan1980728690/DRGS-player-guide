@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: voltaic_shock_fence
+title: 强电防护网
 # 分类
 category: 
     - 武器

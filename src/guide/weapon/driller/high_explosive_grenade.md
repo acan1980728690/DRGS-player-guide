@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: high_explosive_grenade
+title: 高爆手雷
 # 分类
 category: 
     - 武器

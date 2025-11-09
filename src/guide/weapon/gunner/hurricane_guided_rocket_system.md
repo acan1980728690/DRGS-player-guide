@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: hurricane_guided_rocket_system
+title: “飓风”制导火箭系统
 # 分类
 category:
     - 武器

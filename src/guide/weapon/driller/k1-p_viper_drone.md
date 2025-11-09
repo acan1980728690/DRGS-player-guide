@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: k1-p_viper_drone
+title: K1-P“毒蟒”腐蚀毒素无人机
 # 分类
 category: 
     - 武器

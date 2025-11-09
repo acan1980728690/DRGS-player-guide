@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: breach_cutter
+title: 等离子切割器
 # 分类
 category: 
     - 武器

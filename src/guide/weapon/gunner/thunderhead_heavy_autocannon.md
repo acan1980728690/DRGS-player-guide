@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: thunderhead_heavy_autocannon
+title: “雷暴云砧”重型双管机炮
 # 分类
 category: 
     - 武器

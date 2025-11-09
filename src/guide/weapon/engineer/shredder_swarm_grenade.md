@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: shredder_swarm_grenade
+title: 蜂群手雷
 # 分类
 category: 
     - 武器

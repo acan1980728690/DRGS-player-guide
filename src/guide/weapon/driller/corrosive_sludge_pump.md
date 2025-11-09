@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: corrosive_sludge_pump
+title: 蚀泥喷射泵
 # 分类
 category: 
     - 武器

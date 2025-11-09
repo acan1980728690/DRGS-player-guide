@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: armskore_coil_gun
+title: “武装核心”电磁手炮
 # 分类
 category:
     - 武器

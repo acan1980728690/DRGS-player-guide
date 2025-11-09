@@ -1,5 +1,5 @@
 ---
-title: Cryo Grenade
+title: 急冻手雷
 category: 
     - 武器
     - 侦察

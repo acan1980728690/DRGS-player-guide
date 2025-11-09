@@ -1,5 +1,5 @@
 ---
-title: M1000 Classic
+title: M1000 经典型步枪
 category: 
     - 武器
     - 侦察
@@ -8,7 +8,7 @@ tags: [武器]
 order: 5
 ---
 
-![武器名称](./image/M1000_Classic.png)
+![M1000 Classic](./image/M1000_Classic.png)
 
 ## 简介
 

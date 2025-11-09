@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: firefly_hunter_drone
+title: “萤火虫”燃烧狩猎无人机
 # 分类
 category:
     - 武器

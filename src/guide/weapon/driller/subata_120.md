@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: subata_120
+title: 苏巴特120半自动手枪
 # 分类
 category: 
     - 武器

@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: stubby_voltaic_smg
+title: “百万"伏特微型冲锋枪
 # 分类
 category: 
     - 武器

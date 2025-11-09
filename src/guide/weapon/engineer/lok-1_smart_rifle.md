@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: lok-1_smart_rifle
+title: LOK-1 智能步枪
 # 分类
 category: 
     - 武器

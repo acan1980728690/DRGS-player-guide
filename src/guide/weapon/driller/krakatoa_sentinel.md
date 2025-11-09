@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: krakatoa_sentinel
+title: “喀拉喀托”单兵喷火哨戒炮
 # 分类
 category: 
     - 武器

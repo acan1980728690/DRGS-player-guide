@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: cryo_cannon
+title: 急冻喷射炮
 # 分类
 category: 
     - 武器

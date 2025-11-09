@@ -1,5 +1,5 @@
 ---
-title: Zhukov NUK17
+title: 朱可夫 NUK17 双持冲锋枪
 category: 
     - 武器
     - 侦察
@@ -8,7 +8,7 @@ tags: [武器]
 order: 1
 ---
 
-![武器名称](./image/Zhukov_NUK17.png)
+![Zhukov NUK17](./image/Zhukov_NUK17.png)
 
 ## 简介
 

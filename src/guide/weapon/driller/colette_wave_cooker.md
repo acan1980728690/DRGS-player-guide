@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: colette_wave_cooker
+title: 柯莱特 微波烹调者
 # 分类
 category: 
     - 武器

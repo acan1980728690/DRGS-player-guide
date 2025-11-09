@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: incendiary_grenade
+title: 燃烧手雷
 # 分类
 category:
     - 武器

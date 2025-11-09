@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: bulldog_heavy_revolver
+title: “斗牛犬”重型左轮手枪
 # 分类
 category:
     - 武器

@@ -1,6 +1,6 @@
 ---
 # 武器名称
-title: crspr_flamethrower
+title: CRSPR 火焰喷射器
 # 分类
 category: 
     - 武器

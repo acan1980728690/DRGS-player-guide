@@ -1,5 +1,5 @@
 ---
-title: TH-OR Bug Taser
+title: “雷神之罚”电击枪
 category: 
     - 武器
     - 侦察

@@ -1,5 +1,5 @@
 ---
-title: Drak-25 Plasma Carbine
+title: DRAK-25 电浆卡宾枪
 category: 
     - 武器
     - 侦察
@@ -8,7 +8,7 @@ tags: [武器]
 order: 9
 ---
 
-![武器名称](./image/Drak-25_Plasma_Carbine.png)
+![Drak-25 Plasma Carbine](./image/Drak-25_Plasma_Carbine.png)
 
 ## 简介
 
