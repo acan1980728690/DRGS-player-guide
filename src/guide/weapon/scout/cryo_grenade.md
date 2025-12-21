@@ -51,12 +51,12 @@ order: 2
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% Damage<br>+25% Reload Speed | Increases damage and reload speed |
-| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -20% Damage<br>-20% Potency | The grenade now splits into 3 weaker versions |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -20% 伤害<br>-20% Potency | The grenade now splits into 3 weaker versions |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Compact Explosives | +30% Explosion Radius | Increase the size of explosions |
-| ![  =50x50 ](../../overclock/image/Mining.png) | True TNT | — | Grenade explosions now deal damage to the terrain |
+| ![  =50x50 ](../../overclock/image/Mining.png) | True TNT | — | Grenade explosions now deal 伤害 to the terrain |
 | ![  =50x50 ](../../overclock/image/GrenadePull.png) | Gravitational Core | +25% Explosion Radius | Pulls in enemies before detonation |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +75% Damage<br>+75% Potency<br>All other weapons:<br>-20% Potency<br>-20% Reload Speed | You really like this one. |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +75% 伤害<br>+75% Potency<br>All other weapons:<br>-20% Potency<br>-20% 换弹速度 | You really like this one. |
 
 ## 推荐攻略
 

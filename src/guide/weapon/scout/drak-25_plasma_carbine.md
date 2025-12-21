@@ -51,13 +51,13 @@ order: 9
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% Damage<br>+25% Reload Speed | Increases damage and reload speed |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% Clip Size<br>-10% Reload Speed | Increases the clip size at the cost of reload speed |
-| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Cold Plasma | +15% Damage<br>+X Slow | Supercooled plasma slows enemies |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% Fire Rate<br>+25% Reload Speed | Increase fire rate and reload speed |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Hot Plasma | +15% Damage<br>+X Burn | Superheats the plasma, burning enemies |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% Clip Size<br>-10% 换弹速度 | Increases the clip size at the cost of 换弹速度 |
+| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Cold Plasma | +15% 伤害<br>+X Slow | Supercooled plasma slows enemies |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | Hot Plasma | +15% 伤害<br>+X Burn | Superheats the plasma, burning enemies |
 | ![  =50x50 ](../../overclock/image/SawnOff.png) | Sawn-Off | -50% Weapon Range<br>-10 Accuracy | More bullets, less range |
-| ![  =50x50 ](../../overclock/image/StormEmag.png) | Storm E-Mag | +10% Reload Speed<br>+10% Fire Rate | The Last bullet fires in all direction |
+| ![  =50x50 ](../../overclock/image/StormEmag.png) | Storm E-Mag | +10% 换弹速度<br>+10% 射击速度 | The Last bullet fires in all direction |
 
 ## 推荐攻略
 

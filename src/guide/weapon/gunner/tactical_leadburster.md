@@ -58,12 +58,12 @@ order: 5
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -15% Damage<br>-15% Fire Rate<br>-15% Reload Speed | The grenade now splits into 3 weaker versions |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Fire Bullets | — | Change the damage type to [FIRE]<br>Now shoots fire bullets |
+| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -15% 伤害<br>-15% 射击速度<br>-15% 换弹速度 | The grenade now splits into 3 weaker versions |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | Fire Bullets | — | Change the 伤害 type to [FIRE]<br>Now shoots fire bullets |
 | ![  =50x50 ](../../overclock/image/Duration.png) | Fusion Turbines | +20% Lifetime | Increases the lifespan of each grenade |
 | ![  =50x50 ](../../overclock/image/Pierce.png) | Piercing Projectiles | +200% Piercing<br>-30% Lifetime | Leadburster projectiles pierce even more enemies |
-| ![  =50x50 ](../../overclock/image/Medium.png) | Lead Wrapped Ammo | +150% Damage<br>-20% Fire Rate<br>-20% Reload Speed | — |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +100% Damage<br>+100% Fire Rate<br>All other weapons:<br>-30% Damage<br>-30% Fire Rate | You really like this one. |
+| ![  =50x50 ](../../overclock/image/Medium.png) | Lead Wrapped Ammo | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | You really like this one. |
 
 
 ## 推荐攻略

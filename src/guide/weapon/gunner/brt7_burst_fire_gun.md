@@ -55,13 +55,13 @@ order: 4
 
 | 图标 | 名称 | 效果 | 游戏内描述 |
 | ---- | ---- | ---- | ---------- |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% Clip Size<br>-10% Reload Speed | Increases the clip size at the cost of reload speed |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% Fire Rate<br>+25% Reload Speed | Increase fire rate and reload speed |
-| ![  =50x50 ](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% Piercing<br>+30% Damage<br>-30% Fire Rate | Adds more damage and piercing, at the cost of fire rate |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Pan Fried Shells | Change the damage type to [FIRE] | — |
-| ![  =50x50 ](../../overclock/image/Light.png) | Sidearm | -20% Damage<br>All Other Weapons:<br>+25% Damage | Reduces the damage, but increases the damage for all other weapons |
-| ![  =50x50 ](../../overclock/image/DeathSpiral.png) | Bullet Helix | +200% Fire Rate<br>+100% Clip Size | Shoot in a spiral pattern |
-| ![  =50x50 ](../../overclock/image/8Directions.png) | Omni Barrel | +100% Reload Speed<br>+50% Damage<br>+50% Piercing | Fires in 8 directions |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% Clip Size<br>-10% 换弹速度 | Increases the clip size at the cost of 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% Piercing<br>+30% 伤害<br>-30% 射击速度 | Adds more 伤害 and piercing, at the cost of 射击速度 |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | Pan Fried Shells | Change the 伤害 type to [FIRE] | — |
+| ![  =50x50 ](../../overclock/image/Light.png) | Sidearm | -20% 伤害<br>All Other Weapons:<br>+25% 伤害 | Reduces the 伤害, but increases the 伤害 for all other weapons |
+| ![  =50x50 ](../../overclock/image/DeathSpiral.png) | Bullet Helix | +200% 射击速度<br>+100% Clip Size | Shoot in a spiral pattern |
+| ![  =50x50 ](../../overclock/image/8Directions.png) | Omni Barrel | +100% 换弹速度<br>+50% 伤害<br>+50% Piercing | Fires in 8 directions |
 
 
 ## 推荐攻略

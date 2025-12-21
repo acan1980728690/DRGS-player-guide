@@ -10,6 +10,8 @@ order: 8
 
 ![Arc-Tek Cryo Guard](./image/Arc-Tek_Cryo_Guard.png)
 
+> 版本1.0.139p
+
 ## 简介
 
 
@@ -57,14 +59,13 @@ order: 8
 
 | 图标                                                     | 名称                    | 效果                                 | 游戏内描述                                                                                        |
 | -------------------------------------------------------- | ----------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| ![  =50x50 ](../../overclock/image/DroneAttack.png)      | Behaviour Chip: Aggro   | —                                    | Drones will seek out enemies                                                                      |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Disposable Tech         | +100% Lifetime<br>+40% Reload Speed  | Drones explode instead of returning.<br>Lifetime upgrades now shorten the lifetime of the drones. |
-| ![  =50x50 ](../../overclock/image/MoreDrones_2.png)     | More Drones             | +1 Extra Drones                      | Add more drones                                                                                   |
-| ![  =50x50 ](../../overclock/image/DroneDefense.png)     | Personal Space Invaders | -65% Weapon Range<br>+2 Extra Drones | Drones will patrol your personal space                                                            |
-| ![  =50x50 ](../../overclock/image/RushDefend.png)       | Crisis Protocol         | +25% Damage<br>+25% Potency          | Drones rush to protect you when you take damage                                                   |
-| ![  =50x50 ](../../overclock/image/MoreDrones.png)       | More Drones             | +3 Extra Drones                      | Add more drones                                                                                   |
+| ![  =50x50 ](../../overclock/image/DroneAttack.png)      | 行为逻辑芯片：激进（Behaviour Chip: Aggro）   | —                                    | 无人机将主动寻找敌人                                                                      |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | 即弃即炸（Disposable Tech）         | +100% 持续寿命<br>+40% 换弹速度  | 无人机持续寿命借宿后将不会返回至角色，而是爆炸并造成伤害，应用于该无人机的持续寿命升级变为负值 |
+| ![  =50x50 ](../../overclock/image/MoreDrones_2.png)     | 更多无人机（More Drones ）            | +1额外无人机                     | 增加无人机数量                                                                                 |
+| ![  =50x50 ](../../overclock/image/DroneDefense.png)     | 过度保护（Personal Space Invaders） | -50% 武器射程<br>+2 额外无人机 | 无人机将在更靠近玩家的区域内移动                                                            |
+| ![  =50x50 ](../../overclock/image/RushDefend.png)       | 危机协议（Crisis Protocol）         | +25% 伤害<br>+25% 持续效果强度          | 受到伤害时，无人机将立刻移动到你身边进行保护                                                   |
+| ![  =50x50 ](../../overclock/image/MoreDrones.png)       | 更多无人机（More Drones）             | +3 额外无人机                      | 增加无人机数量                                                                                   |
 
 ## 推荐攻略
-
 
 ## 贡献者

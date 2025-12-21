@@ -54,11 +54,11 @@ order: 2
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases damage and reload speed |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
 | ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -30% 伤害 | The grenade now splits into 3 weaker versions |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Compact Explosives | +30% 爆炸半径 | Increase the size of explosions |
-| ![  =50x50 ](../../overclock/image/Mining.png) | True TNT | — | Grenade explosions now deal damage to the terrain |
-| ![  =50x50 ](../../overclock/image/GrenadeDamage.png) | Feedback Harness | — | Throws grenades on damage taken. 10 sec cooldown. |
+| ![  =50x50 ](../../overclock/image/Mining.png) | True TNT | — | Grenade explosions now deal 伤害 to the terrain |
+| ![  =50x50 ](../../overclock/image/GrenadeDamage.png) | Feedback Harness | — | Throws grenades on 伤害 taken. 10 sec cooldown. |
 | ![  =50x50 ](../../overclock/image/GrenadeFear.png) | Hallucinogenic | — | Enemies run away in fear |
 
 

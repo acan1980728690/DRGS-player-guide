@@ -6,7 +6,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   //TODO
   //要部署到的域名
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://www.drgs-player.top/",
 
   //默认作者
   author: {

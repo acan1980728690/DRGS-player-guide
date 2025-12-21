@@ -66,8 +66,8 @@ order: 2
 | ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -20% 伤害<br>-20% 效果强度 | The grenade now splits into 3 weaker versions |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Compact Explosives | +30% 爆炸半径 | Increase the size of explosions |
 | ![  =50x50 ](../../overclock/image/PotencyUp.png) | Potent Juice | +30% 效果强度 | Greatly increase potency |
-| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Tape Some Nails to It | +10% 伤害 | Adds an additional explosion that deals [动能] damage |
-| ![  =50x50 ](../../overclock/image/GrenadeDamage.png) | Feedback Harness | — | Throws grenades on damage taken. 10 sec cooldown. |
+| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Tape Some Nails to It | +10% 伤害 | Adds an additional explosion that deals [动能] 伤害 |
+| ![  =50x50 ](../../overclock/image/GrenadeDamage.png) | Feedback Harness | — | Throws grenades on 伤害 taken. 10 sec cooldown. |
 | ![  =50x50 ](../../overclock/image/GrenadePull.png) | Gravitational Core | +25% 爆炸半径 | Pulls in enemies before detonation |
 
 

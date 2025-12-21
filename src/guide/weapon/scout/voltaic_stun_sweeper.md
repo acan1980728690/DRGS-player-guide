@@ -43,8 +43,8 @@ order: 6
 | 图标                                                   | 名称                      | 效果                                    | 游戏内描述                                                                             |
 | ------------------------------------------------------ | ------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------- |
 | ![  =50x50 ](../../overclock/image/WeaponMagnet.png)   | Kinda Looks Like a Magnet | —                                       | The Stun Sweeper will now pick up XP and Materials                                     |
-| ![  =50x50 ](../../overclock/image/SpiralFlight.png)   | Knuckle Grip              | +350% Weapon Range<br>-40% Reload Speed | Files in an outward spiral before returning                                            |
-| ![  =50x50 ](../../overclock/image/RangeIncrease.png)  | Lightweight Alloy         | +30% Weapon Range<br>+15% Reload Speed  | Increase the range of your Voltaic Stun Sweeper                                        |
+| ![  =50x50 ](../../overclock/image/SpiralFlight.png)   | Knuckle Grip              | +350% Weapon Range<br>-40% 换弹速度 | Files in an outward spiral before returning                                            |
+| ![  =50x50 ](../../overclock/image/RangeIncrease.png)  | Lightweight Alloy         | +30% Weapon Range<br>+15% 换弹速度  | Increase the range of your Voltaic Stun Sweeper                                        |
 | ![  =50x50 ](../../overclock/image/PotencyUp.png)      | Potent Juice              | +30% Potency                            | Greatly increase potency                                                               |
 | ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | Disposable Tech           | —                                       | The Stun Sweeper no longer returns to you, but instead explodes in an electrical burst |
 | ![  =50x50 ](../../overclock/image/OneHanded.png)      | One-Handed                | —                                       | Throw an additional Stun Sweeper in the opposite direction                             |

@@ -1,5 +1,5 @@
 ---
-title: 武器梯度图
+title: 武器
 category: 
     - 武器
 tags: [武器]

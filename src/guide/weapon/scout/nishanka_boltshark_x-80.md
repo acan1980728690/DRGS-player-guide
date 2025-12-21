@@ -53,11 +53,11 @@ order: 10
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Cryo Bolt | — | Adds a Cryo bolt to the rotation |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | Fire Bolt | — | Adds a Fire bolt to the rotation |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% Fire Rate<br>+25% Reload Speed | Increase fire rate and reload speed |
-| ![  =50x50 ](../../overclock/image/Knockback.png) | Rubber Tip | +15% Damage<br>+Knockback | Knock back enemies |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/Knockback.png) | Rubber Tip | +15% 伤害<br>+Knockback | Knock back enemies |
 | ![  =50x50 ](../../overclock/image/Volley.png) | Bolt Volley | — | Shoot all bolt types at once! |
-| ![  =50x50 ](../../overclock/image/Payload.png) | Payload | — | When hitting large enemies or rocks, arrows leave behind an electrical field that deals damage |
-| ![  =50x50 ](../../overclock/image/StormEmag.png) | Storm E-Mag | +10% Reload Speed<br>+10% Fire Rate | The Last bullet fires in all direction |
+| ![  =50x50 ](../../overclock/image/Payload.png) | Payload | — | When hitting large enemies or rocks, arrows leave behind an electrical field that deals 伤害 |
+| ![  =50x50 ](../../overclock/image/StormEmag.png) | Storm E-Mag | +10% 换弹速度<br>+10% 射击速度 | The Last bullet fires in all direction |
 
 ## 推荐攻略
 

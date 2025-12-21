@@ -56,13 +56,13 @@ order: 6
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% Damage<br>+25% Reload Speed | Increases damage and reload speed |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% Clip Size<br>-10% Reload Speed | Increases the clip size at the cost of reload speed |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% Fire Rate<br>+25% Reload Speed | Increase fire rate and reload speed |
-| ![  =50x50 ](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% Piercing<br>+30% Damage<br>-30% Fire Rate | Adds more damage and piercing, at the cost of fire rate |
-| ![  =50x50 ](../../overclock/image/Knockback.png) | Rubber Tip | +15% Damage<br>+Knockback | Knock back enemies |
-| ![  =50x50 ](../../overclock/image/StormEmag.png) | Storm E-Mag | +10% Reload Speed<br>+10% Fire Rate | The Last bullet fires in all direction |
-| ![  =50x50 ](../../overclock/image/ProjectileSpread.png) | The Tightest of Springs | +125% Fire Rate<br>-15 Accuracy | — |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% Clip Size<br>-10% 换弹速度 | Increases the clip size at the cost of 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% Piercing<br>+30% 伤害<br>-30% 射击速度 | Adds more 伤害 and piercing, at the cost of 射击速度 |
+| ![  =50x50 ](../../overclock/image/Knockback.png) | Rubber Tip | +15% 伤害<br>+Knockback | Knock back enemies |
+| ![  =50x50 ](../../overclock/image/StormEmag.png) | Storm E-Mag | +10% 换弹速度<br>+10% 射击速度 | The Last bullet fires in all direction |
+| ![  =50x50 ](../../overclock/image/ProjectileSpread.png) | The Tightest of Springs | +125% 射击速度<br>-15 Accuracy | — |
 
 ## 推荐攻略
 

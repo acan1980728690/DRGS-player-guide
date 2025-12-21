@@ -12,7 +12,7 @@ order: 1
 ---
 
 ![lmg_gun_platform](./image/LMG_Gun_Platform.png)
-
+> 版本1.0.139p
 ## 简介
 
 
@@ -43,7 +43,7 @@ order: 1
 
 |    属性      | 初始值  |
 | ----------- | ------ |
-|  炮台数  | 2 |
+|  哨戒炮存储栏位数  | 2 |
 
 ## 精通加成
 
@@ -54,13 +54,13 @@ order: 1
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | Battery Bullets | 改变伤害类型为[电击] | [Weapon] fires electrical bullets |
-| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | Extra Capacity | +1 炮台<br>+10% 伤害 | Adds 1 extra charges |
-| ![  =50x50 ](../../overclock/image/Mining.png) | Mining Directive | — | Turrets mine nearby walls |
-| ![  =50x50 ](../../overclock/image/DamagePlasma.png) | Plasma Coating | 改变伤害类型为[电浆] | [Weapon] fires plasma bullets |
-| ![  =50x50 ](../../overclock/image/TurretTracks.png) | Tank Tracks | — | The turrets will follow you around |
-| ![  =50x50 ](../../overclock/image/TurretCap.png) | Extra Capacity | +3 炮台<br>+10% 伤害 | Adds 3 extra charges |
-| ![  =50x50 ](../../overclock/image/TurretOverload.png) | LMG Overload | +100% 射击速度<br>-15 精准度 | Greatly increase fire rate at the cost of accuracy |
+| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | 子弹蓄电（Battery Bullets） | 将伤害类型变为**电击** | 轻机枪哨戒炮将射出电击子弹 |
+| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | 额外警戒（Extra Capacity） | +1 哨戒炮存储栏位<br>+10% 伤害 | 增加一个哨戒炮存储栏位 |
+| ![  =50x50 ](../../overclock/image/Mining.png) | 挖掘指令（Mining Directive） | — | 哨戒炮将主动对周围岩体造成伤害 |
+| ![  =50x50 ](../../overclock/image/DamagePlasma.png) | 电浆覆盖（Plasma Coating） | 将伤害类型变为**电浆**| 轻机枪哨戒炮将射出电浆子弹 |
+| ![  =50x50 ](../../overclock/image/TurretTracks.png) | 坦克履带（Tank Tracks） | — | 哨戒炮将跟随角色移动 |
+| ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） | +4 哨戒炮存储栏位<br>+10% 伤害 | 增加4个哨戒炮存储栏位 |
+| ![  =50x50 ](../../overclock/image/TurretOverload.png) | 机枪过载（LMG Overload） | +100% 射击速度<br>-15 精准度 | 牺牲精准，极大提升射速 |
 
 
 ## 推荐攻略

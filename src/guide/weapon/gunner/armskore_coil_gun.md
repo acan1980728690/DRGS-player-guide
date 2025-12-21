@@ -59,8 +59,8 @@ order: 10
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases damage and reload speed |
-| ![  =50x50 ](../../overclock/image/Mining.png) | Coilgun Mining Damage | — | Shots now do damage to the terrain |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/Mining.png) | Coilgun Mining 伤害 | — | Shots now do 伤害 to the terrain |
 | ![  =50x50 ](../../overclock/image/ExplodeReload.png) | Explosive Reload | — | Release an explosion whenever the weapon reloads |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 射线数 | Adds more beams |
 | ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 射线数 | That's a lot of beams |

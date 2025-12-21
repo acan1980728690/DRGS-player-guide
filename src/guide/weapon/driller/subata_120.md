@@ -54,10 +54,10 @@ order: 1
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/DamageAcid.png) | Acid Dipped Tips | 改变伤害类型为[腐蚀] | — |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% 弹匣容量<br>-10% 换弹速度 | Increases the clip size at the cost of reload speed |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase fire rate and reload speed |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% 弹匣容量<br>-10% 换弹速度 | Increases the clip size at the cost of 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | Pan Fried Shells | 改变伤害类型为[燃烧] | — |
-| ![  =50x50 ](../../overclock/image/Light.png) | Sidearm | -20% 伤害<br>所有其他武器:<br>+25% 伤害 | Reduces the damage, but increases the damage for all other weapons |
+| ![  =50x50 ](../../overclock/image/Light.png) | Sidearm | -20% 伤害<br>所有其他武器:<br>+25% 伤害 | Reduces the 伤害, but increases the 伤害 for all other weapons |
 | ![  =50x50 ](../../overclock/image/OneHanded.png) | Akimbo | +15% 射击速度<br>+15% 效果强度 | Shoots an additional time in the opposite direction |
 | ![  =50x50 ](../../overclock/image/DoubleBarrel.png) | Double Barrel! | — | Shoot two parallel bullets |
 

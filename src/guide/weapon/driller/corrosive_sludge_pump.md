@@ -60,9 +60,9 @@ order: 5
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases damage and reload speed |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
 | ![  =50x50 ](../../overclock/image/BiggerTanks.png) | Bigger Tanks | +100% 持续时间 | Increases the life time of your beam |
-| ![  =50x50 ](../../overclock/image/Punch.png) | Impact Punch | +45% 伤害 | Greatly increases damage |
+| ![  =50x50 ](../../overclock/image/Punch.png) | Impact Punch | +45% 伤害 | Greatly increases 伤害 |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 射线数 | Adds more beams |
 | ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 射线数 | That's a lot of beams |
 | ![  =50x50 ](../../overclock/image/SludgeTopShelf.png) | Top-Shelf Sludge | +X 燃烧<br>+X 触电 | Adds Burn and Shock status effects to ground zones |
