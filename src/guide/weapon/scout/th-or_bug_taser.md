@@ -48,13 +48,13 @@ order: 7
 ## 精通加成
 
 - +7%伤害
-- +7%效果强度
+- +7%持续效果强度
 
 ## 超频模组
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/ExplodeReload.png) | Explosive Reload | — | Release an explosion whenever the weapon reloads |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 Beams | Adds more beams |
 | ![  =50x50 ](../../overclock/image/Light.png) | Sidearm | -20% 伤害<br>All other weapons:<br>+25% 伤害 | Reduces the 伤害, but increases the 伤害 for all other weapons |

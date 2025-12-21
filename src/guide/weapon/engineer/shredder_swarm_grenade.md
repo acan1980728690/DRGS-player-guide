@@ -50,8 +50,8 @@ order: 11
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
-| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -30% 伤害<br>-30% 效果强度 | The grenade now splits into 3 weaker versions |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
+| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -30% 伤害<br>-30% 持续效果强度 | 手雷丢出后会分类成三颗更弱的手雷 |
 | ![  =50x50 ](../../overclock/image/MoreDrones_2.png) | More Drones | +1 额外无人机 | Add more drones |
 | ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Tape Some Ice to It! | — | Adds a highly potent cryo explosion to the grenade |
 | ![  =50x50 ](../../overclock/image/ElectricalTether.png) | Electrified Dispenser | — | Drones tether to the grenade with an electrical arc |

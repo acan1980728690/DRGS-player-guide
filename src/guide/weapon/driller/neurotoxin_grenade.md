@@ -12,7 +12,7 @@ order: 8
 ---
 
 ![neurotoxin_grenade](./image/Neurotoxin_Grenade.png)
-
+> 版本1.0.139p
 ## 简介
 
 
@@ -44,7 +44,7 @@ order: 8
 | ----------- | ------ |
 |  触发模式    |  引爆  |
 |  引爆时间    |  2s    |
-|  爆炸半径    |  3     |
+|  爆炸范围    |  3     |
 
 **元素伤害**:
 
@@ -63,12 +63,12 @@ order: 8
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -20% 伤害<br>-20% Potency | The grenade now splits into 3 weaker versions |
-| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Compact Explosives | +30% Explosion Radius | Increase the size of explosions |
-| ![  =50x50 ](../../overclock/image/PotencyUp.png) | Potent Juice | +30% Potency | Greatly increase potency |
-| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Tape Some Nails to It | +10% 伤害 | Adds an additional explosion that deals [KINETIC] 伤害 |
-| ![  =50x50 ](../../overclock/image/GrenadeDamage.png) | Feedback Harness | — | Throws grenades on 伤害 taken. 10 sec cooldown. |
-| ![  =50x50 ](../../overclock/image/GrenadeFear.png) | Hallucinogenic | — | Enemies run away in fear |
+| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -20% 伤害<br>-20% 持续效果强度 | 手雷丢出后会分类成三颗更弱的手雷 |
+| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 小而精悍（Compact Explosives） | +30% 爆炸范围 | 提升爆炸范围 |
+| ![  =50x50 ](../../overclock/image/PotencyUp.png) | 强力化学（Potent Juice） | +30% 持续效果强度 | 极大提升持续效果强度 |
+| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 土质增伤（Tape Some Nails to It） | +10% 伤害 | 手雷爆炸时将额外造成一次动能伤害爆炸 |
+| ![  =50x50 ](../../overclock/image/GrenadeDamage.png) | 触发背带（Feedback Harness） | — | 受到伤害时将在原地留下数个该手雷，冷却时间10秒 |
+| ![  =50x50 ](../../overclock/image/GrenadeFear.png) | 致幻药物（Hallucinogenic） | +25 换弹速度 <br> +25% 爆炸范围 | 敌人将在恐惧中逃离爆炸区域 |
 
 
 ## 推荐攻略

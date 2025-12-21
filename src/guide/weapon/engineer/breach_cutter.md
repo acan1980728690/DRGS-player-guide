@@ -62,9 +62,9 @@ order: 8
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | Hot Plasma | +15% 伤害<br>+X 燃烧 | Superheats the plamsa, burning enemies |
-| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | Ionized Plasma | +15% 伤害<br>+<1.1 效果强度> 触电 | Ionizes the plasma, shocking enemies |
+| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | Ionized Plasma | +15% 伤害<br>+<1.1 持续效果强度> 触电 | Ionizes the plasma, shocking enemies |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 射线 | Adds more beams |
 | ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 射线 | That's a lot of beams |
 | ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | Experimental Cluster Projectiles | — | Plasma balls split into smaller projectiles when they expire |

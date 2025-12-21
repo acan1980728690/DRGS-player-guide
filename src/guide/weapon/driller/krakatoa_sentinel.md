@@ -62,7 +62,7 @@ order: 4
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 射线数 | Adds more beams |
 | ![  =50x50 ](../../overclock/image/TurretTracks.png) | Tank Tracks | — | The turrets will follow you around |
 | ![  =50x50 ](../../overclock/image/TurretCap.png) | Extra Capacity | +3 Turrets | Adds 3 extra charges |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Krakatoa Protocol | +100% 伤害<br>+100% 效果强度 | Supercharged Sentinel |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | Krakatoa Protocol | +100% 伤害<br>+100% 持续效果强度 | Supercharged Sentinel |
 
 
 ## 推荐攻略

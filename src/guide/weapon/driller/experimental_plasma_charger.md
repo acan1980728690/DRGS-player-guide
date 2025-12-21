@@ -47,7 +47,7 @@ order: 11
 
 |    属性      | 初始值  |
 | ----------- | ------ |
-|  效果强度     | 24     |
+|  持续效果强度     | 24     |
 |  能否留下效果池  |  能     |
 |  效果池持续时间  |  3s    |
 
@@ -59,7 +59,7 @@ order: 11
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Cold Plasma | +15% 伤害<br>+X Slow | Supercooled plasma slows enemies |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | Hot Plasma | +15% 伤害<br>+X Burn | Superheats the plamsa, burning enemies |
 | ![  =50x50 ](../../overclock/image/GrenadePull_2.png) | Vortex Core | — | EPC projectiles now pull in a radius around them |

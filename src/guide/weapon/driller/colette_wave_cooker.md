@@ -49,12 +49,12 @@ order: 6
 
 |    属性      | 初始值  |
 | ----------- | ------ |
-|  效果强度  | 28 燃烧 |
+|  持续效果强度  | 28 燃烧 |
 |  能否留下效果池  | 否  |
 
 ## 精通加成
 
-- +12% 效果强度
+- +12% 持续效果强度
 
 ## 超频模组
 
@@ -63,7 +63,7 @@ order: 6
 | ![  =50x50 ](../../overclock/image/FastSpin.png) | Better Ball Bearings | — | Increase rotation speed |
 | ![  =50x50 ](../../overclock/image/BeamSpread_2.png) | Crowd Cooker | — | Increase beam width |
 | ![  =50x50 ](../../overclock/image/BeamRange.png) | Focused Lens | — | Increase beam length but reduce width. Target the enemy with the largest total HP |
-| ![  =50x50 ](../../overclock/image/NanoWaves.png) | Nano Waves | +100% 效果强度<br>-30% 伤害 | Less initial 伤害, but increases the applied burn stacks |
+| ![  =50x50 ](../../overclock/image/NanoWaves.png) | Nano Waves | +100% 持续效果强度<br>-30% 伤害 | Less initial 伤害, but increases the applied burn stacks |
 | ![  =50x50 ](../../overclock/image/CentralDeflector.png) | Centralized Reflector | — | Adds an additional beam that fires in the opposite direction |
 | ![  =50x50 ](../../overclock/image/DamageCryo.png) | Thermal Oscillator | +50% 伤害<br>+40% 减速 | WaveCooker now also applies Slow |
 

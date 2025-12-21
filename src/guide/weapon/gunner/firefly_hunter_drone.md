@@ -54,7 +54,7 @@ order: 7
 ## 精通加成
 
 - +7% 伤害
-- +7% 效果强度
+- +7% 持续效果强度
 
 
 ## 超频模组
@@ -65,7 +65,7 @@ order: 7
 | ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Disposable Tech | +100% Lifetime<br>+40% 换弹速度 | Drones explode instead of returning.<br />Lifetime upgrades now shorten the lifetime of the drones. |
 | ![  =50x50 ](../../overclock/image/Mining.png) | Drone Mining 伤害 | — | Drones now do 伤害 to the terrain |
 | ![  =50x50 ](../../overclock/image/MoreDrones.png) | More Drones | +1 Extra Drones | Add more drones |
-| ![  =50x50 ](../../overclock/image/ZoneFire.png) | Fuel Leak | +20% Potency | Fire drones leave a trail of fire |
+| ![  =50x50 ](../../overclock/image/ZoneFire.png) | Fuel Leak | +20% 持续效果强度 | Fire drones leave a trail of fire |
 | ![  =50x50 ](../../overclock/image/MoreDrones.png) | More Drones | +3 Extra Drones | Add more drones |
 
 

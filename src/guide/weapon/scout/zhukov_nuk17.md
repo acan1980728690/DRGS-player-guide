@@ -47,13 +47,13 @@ order: 1
 
 | 图标 | 名称 | 效果 | 游戏内描述 |
 | ---- | ---- | ---- | ---------- |
-| ![ =50x50](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![ =50x50](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![ =50x50](../../overclock/image/DamageElectrical.png) | Battery Bullets | Change the 伤害 type to [ELECTRICAL] | [Weapon] fires electrical bullets |
 | ![ =50x50](../../overclock/image/TargetHP.png) | Big Game Hunter | +10% Critical 伤害<br>+10% Critical Chance | Targets the enemy with the highest HP |
-| ![ =50x50](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% Piercing<br>+30% 伤害<br>-30% 射击速度 | Adds more 伤害 and piercing, at the cost of 射击速度 |
+| ![ =50x50](../../overclock/image/Pierce.png) | 大口径弹（High Caliber Rounds） | +100% 穿透<br>+30% 伤害<br>-30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
 | ![ =50x50](../../overclock/image/DamageCryo_2.png) | Refrigerated Gunpowder | Change the 伤害 type to [COLD] | — |
-| ![ =50x50](../../overclock/image/Medium.png) | Lead Wrapped Ammo | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
-| ![ =50x50](../../overclock/image/Favourite.png) | The Favourite | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | You really like this one. |
+| ![ =50x50](../../overclock/image/Medium.png) | 镀铅弹药（Lead Wrapped Ammo） | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
+| ![ =50x50](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
 
 ## 推荐攻略
 

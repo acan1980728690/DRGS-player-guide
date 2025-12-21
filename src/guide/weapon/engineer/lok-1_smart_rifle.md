@@ -53,12 +53,12 @@ order: 6
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | Battery Bullets | 改变伤害类型为[电击] | [Weapon] fires electrical bullets |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% 弹匣容量<br>-10% 换弹速度 | Increases the clip size at the cost of 换弹速度 |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
-| ![  =50x50 ](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% 穿透强度<br>+30% 伤害<br>-30% 射击速度 | Adds more 伤害 and piercing, at the cost of 射击速度 |
-| ![  =50x50 ](../../overclock/image/Medium.png) | Lead Wrapped Ammo | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +100% 伤害<br>+100% 射击速度<br>所有其他武器：<br>-30% 伤害<br>-30% 射击速度 | You really like this one. |
+| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | 蓄电子弹（Battery Bullets） | 将伤害类型变为**电击** | - |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量<br>-10% 换弹速度 | 提升弹匣容量，牺牲换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
+| ![  =50x50 ](../../overclock/image/Pierce.png) |大口径弹（High Caliber Rounds） | +100% 穿透<br>+30% 伤害<br>-30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
+| ![  =50x50 ](../../overclock/image/Medium.png) | 镀铅弹药（Lead Wrapped Ammo） | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>其他武器:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

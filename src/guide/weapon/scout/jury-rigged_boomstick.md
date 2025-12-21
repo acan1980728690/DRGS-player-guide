@@ -51,18 +51,19 @@ order: 3
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/DamageElectrical.png) | Battery Bullets | Change the 伤害 type to [ELECTRICAL] | [Weapon] fires electrical bullets |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% Clip Size<br>-10% 换弹速度 | Increases the clip size at the cost of 换弹速度 |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量<br>-10% 换弹速度 | 提升弹匣容量，牺牲换弹速度 |
 | ![  =50x50 ](../../overclock/image/RangeIncrease.png) | High Velocity Bullets | +50% Weapon Range<br>+10% 伤害 | Increase the range of your projectiles |
 | ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Refrigerated Gunpowder | Change the 伤害 type to [COLD] | — |
 | ![  =50x50 ](../../overclock/image/Minipellets.png) | Mini Pellets | -10% 伤害 | Shotgun shells contain twice as many pellets, but they do less 伤害 |
-| ![  =50x50 ](../../overclock/image/Fatboy.png) | Thick Boy | +200% Piercing<br>+200% Weapon Range<br>Potency now scales with clip size | Combines all your projectiles into one thick boy, greatly increasing 伤害 while reducing 换弹速度 |
+| ![  =50x50 ](../../overclock/image/Fatboy.png) | 壮男孩（Thick Boy） | +200% Piercing<br>+200% Weapon Range<br>持续效果强度 now scales with clip size | 将弹匣内所有子弹融合成一发“壮男孩”，极大提升伤害，换弹速度减慢 |
 
 
-The Thick Boy Overclock turns the weapon's clip of 2 (or 4 with Bigger Mags) into a clip of 1, making 射击速度 become dependent on 换弹速度 rather than the 射击速度 stat.
 
-The math behind Thick Boy:
-伤害: Clip size * 伤害
-换弹速度: -0.6 + (1/clip size)
+壮男孩超频使得弹匣容量从2(拿了更大弹匣是4)变成1,并且射击速度实际上取决于换弹速度而不是射击速度
+
+壮男孩计算公式：
+伤害: 弹匣容量 * 伤害
+换弹速度: -0.6 + (1/弹匣容量)
 
 ## 推荐攻略
 

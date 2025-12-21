@@ -53,12 +53,12 @@ order: 3
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Explosive Reload | — | Release an explosion whenever the weapon reloads |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
-| ![  =50x50 ](../../overclock/image/PotencyUp.png) | Potent Juice | +30% 效果强度 | Greatly increase potency |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
+| ![  =50x50 ](../../overclock/image/PotencyUp.png) | 强力化学（Potent Juice） | +30% 持续效果强度 | 极大提升持续效果强度 |
 | ![  =50x50 ](../../overclock/image/Favourite.png) | Sidearm | -20% 伤害<br>所有其他武器：<br>+25% 伤害 | Reduces the 伤害, but increases the 伤害 for all other weapons |
 | ![  =50x50 ](../../overclock/image/DamageElectrical.png) | EM Discharge | — | Stubby can now shoot friendly targets for extra Electrical goodness |
 | ![  =50x50 ](../../overclock/image/Medium.png) | MK 11 | +25% 射击速度<br>+25% 换弹速度<br>+100% 效果强度<br>+30 弹匣容量<br>-50 精准度 | Turn it up to 11 |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Storm E-Mag | +10% 换弹速度<br>+10% 射击速度 | The Last bullet fires in all direction
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 暴风退匣（Storm E-Mag） | +10% 换弹速度<br>+10% 射击速度 | 弹匣内的最后一发子弹将同时向所有方向发射 |
 
 
 ## 推荐攻略

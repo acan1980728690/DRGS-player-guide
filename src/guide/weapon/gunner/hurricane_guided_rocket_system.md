@@ -41,25 +41,25 @@ order: 8
 
 |    属性      | 初始值  |
 | ----------- | ------ |
-|  爆炸半径  | 1.5 |
+|  爆炸范围  | 1.5 |
 
 
 ## 精通加成
 
 - +7% 伤害
-- +7% 爆炸半径
+- +7% 爆炸范围
 
 
 ## 超频模组
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/ZoneFire_2.png) | Incendiary Payload | — | Rockets set the ground on fire |
-| ![  =50x50 ](../../overclock/image/BiggerExplosions.png) | Runic Warhead | +50% Explosion Radius | Bigger explosions |
+| ![  =50x50 ](../../overclock/image/BiggerExplosions.png) | Runic Warhead | +50% 爆炸范围 | Bigger explosions |
 | ![  =50x50 ](../../overclock/image/AddRockets_2.png) | Spare Rockets | +3 Clip Size | Add 3 more rockets |
 | ![  =50x50 ](../../overclock/image/AddRockets.png) | Extra Rocket Drum | Add a lot more rockets | — |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | You really like this one. |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

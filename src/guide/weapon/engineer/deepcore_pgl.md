@@ -50,7 +50,7 @@ order: 7
 | ----------- | ------ |
 |  触发模式    |  撞击  |
 |  引爆时间     | 2.00s      |
-|  爆炸半径     | 3.00     |
+|  爆炸范围     | 3.00     |
 
 ## 精通加成
 
@@ -60,12 +60,12 @@ order: 7
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
-| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -30% 伤害 | The grenade now splits into 3 weaker versions |
-| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Compact Explosives | +30% 爆炸半径 | Increase the size of explosions |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
+| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -30% 伤害 | 手雷丢出后会分类成三颗更弱的手雷 |
+| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 小而精悍（Compact Explosives） | +30% 爆炸范围 | 提升爆炸范围 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
 | ![  =50x50 ](../../overclock/image/OneHanded.png) | Akimbo | — | Shoots an additional time in the opposite direction |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +75% 伤害<br>+30% 爆炸半径<br>所有其他武器：<br>-25% 伤害<br>-20% 爆炸半径 | You really like this one. |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害<br>+30% 爆炸范围<br>所有其他武器：<br>-25% 伤害<br>-20% 爆炸范围 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

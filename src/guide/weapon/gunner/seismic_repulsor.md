@@ -55,7 +55,7 @@ order: 9
 | ![  =50x50 ](../../overclock/image/TurretCap_2.png) | Extra Capacity | +1 Turrets | Adds 1 extra charges |
 | ![  =50x50 ](../../overclock/image/TurretTracks.png) | Tank Tracks | — | The turrets will follow you around |
 | ![  =50x50 ](../../overclock/image/TurretCap.png) | Extra Capacity | +3 Turrets | Adds 3 extra charges |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +100% 伤害<br>+50% Lifetime<br>All other weapons:<br>-30% 伤害<br>-25% Lifetime | You really like this one. |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+50% Lifetime<br>All other weapons:<br>-30% 伤害<br>-25% Lifetime | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

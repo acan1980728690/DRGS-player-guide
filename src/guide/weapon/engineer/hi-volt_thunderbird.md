@@ -58,7 +58,7 @@ order: 4
 | ![  =50x50 ](../../overclock/image/DroneAttack.png) | Behaviour Chip: Aggro | — | Drones will seek out enemies |
 | ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Disposable Tech | +100% 持续时间<br>+40% 换弹速度 | Drones explode instead of returning.<br />Lifetime upgrades now shorten the lifetime of the drones. |
 | ![  =50x50 ](../../overclock/image/MoreDrones_2.png) | More Drones | +1 额外无人机 | Add more drones |
-| ![  =50x50 ](../../overclock/image/PotencyUp.png) | Potent Juice | +30% 效果强度 | Greatly increase potency |
+| ![  =50x50 ](../../overclock/image/PotencyUp.png) | 强力化学（Potent Juice） | +30% 持续效果强度 | 极大提升持续效果强度 |
 | ![  =50x50 ](../../overclock/image/Conduit.png) | Conduit | — | Shoot out electrical beams to all nearby constructs |
 | ![  =50x50 ](../../overclock/image/ElectricalTether.png) | Electrical Tether | — | Drones are now tethered to you by an arc of electricity |
 | ![  =50x50 ](../../overclock/image/MoreDrones.png) | More Drones | +3 额外无人机 | Add more drones |

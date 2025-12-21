@@ -63,7 +63,7 @@ order: 9
 | ![  =50x50 ](../../overclock/image/Punch.png) | Impact Punch | +45% 伤害 | Greatly increases 伤害 |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 Beams | Adds more beams |
 | ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 Beams | That's a lot of beams |
-| ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | Spliced Emitter | +75% Weapon Range<br>+75% 伤害<br>+75% Potency | Better Beams |
+| ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | Spliced Emitter | +75% Weapon Range<br>+75% 伤害<br>+75% 持续效果强度 | Better Beams |
 
 
 

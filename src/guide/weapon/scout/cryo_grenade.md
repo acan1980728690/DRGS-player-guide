@@ -40,7 +40,7 @@ order: 2
 | ----------- | ------ |
 | 触发模式| 引爆|
 | 引爆时间 | 1s|
-|  爆炸半径  | 4 |
+|  爆炸范围  | 4 |
 
 ## 精通加成
 
@@ -51,12 +51,12 @@ order: 2
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
-| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | Cluster Grenades | -20% 伤害<br>-20% Potency | The grenade now splits into 3 weaker versions |
-| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | Compact Explosives | +30% Explosion Radius | Increase the size of explosions |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
+| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -20% 伤害<br>-20% 持续效果强度 | 手雷丢出后会分类成三颗更弱的手雷 |
+| ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 小而精悍（Compact Explosives） | +30% 爆炸范围 | 提升爆炸范围 |
 | ![  =50x50 ](../../overclock/image/Mining.png) | True TNT | — | Grenade explosions now deal 伤害 to the terrain |
-| ![  =50x50 ](../../overclock/image/GrenadePull.png) | Gravitational Core | +25% Explosion Radius | Pulls in enemies before detonation |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | The Favourite | +75% 伤害<br>+75% Potency<br>All other weapons:<br>-20% Potency<br>-20% 换弹速度 | You really like this one. |
+| ![  =50x50 ](../../overclock/image/GrenadePull.png) | Gravitational Core | +25% 爆炸范围 | Pulls in enemies before detonation |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害<br>+75% 持续效果强度<br>All other weapons:<br>-20% 持续效果强度<br>-20% 换弹速度 | 你真的很喜欢这把武器 |
 
 ## 推荐攻略
 

@@ -56,12 +56,12 @@ order: 6
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | Bigger Mags | +100% Clip Size<br>-10% 换弹速度 | Increases the clip size at the cost of 换弹速度 |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | Gas Rerouting | +25% 射击速度<br>+25% 换弹速度 | Increase 射击速度 and 换弹速度 |
-| ![  =50x50 ](../../overclock/image/Pierce.png) | High Caliber Rounds | +100% Piercing<br>+30% 伤害<br>-30% 射击速度 | Adds more 伤害 and piercing, at the cost of 射击速度 |
-| ![  =50x50 ](../../overclock/image/Knockback.png) | Rubber Tip | +15% 伤害<br>+Knockback | Knock back enemies |
-| ![  =50x50 ](../../overclock/image/StormEmag.png) | Storm E-Mag | +10% 换弹速度<br>+10% 射击速度 | The Last bullet fires in all direction |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量<br>-10% 换弹速度 | 提升弹匣容量，牺牲换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
+| ![  =50x50 ](../../overclock/image/Pierce.png) | 大口径弹（High Caliber Rounds） | +100% 穿透<br>+30% 伤害<br>-30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
+| ![  =50x50 ](../../overclock/image/Knockback.png) | 橡胶弹尖（Rubber Tip） | +15% 伤害<br>+ 击退效果 | 击退敌人 |
+| ![  =50x50 ](../../overclock/image/StormEmag.png) | 暴风退匣（Storm E-Mag） | +10% 换弹速度<br>+10% 射击速度 | 弹匣内的最后一发子弹将同时向所有方向发射 |
 | ![  =50x50 ](../../overclock/image/ProjectileSpread.png) | The Tightest of Springs | +125% 射击速度<br>-15 Accuracy | — |
 
 ## 推荐攻略

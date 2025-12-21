@@ -48,7 +48,7 @@ order: 7
 
 |    属性      | 初始值  |
 | ----------- | ------ |
-|  爆炸半径    | 3.00   |
+|  爆炸范围    | 3.00   |
 
 ## 精通加成
 
@@ -59,11 +59,11 @@ order: 7
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | A Little More Oomph! | +15% 伤害<br>+25% 换弹速度 | Increases 伤害 and 换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/ZoneAcid.png) | Corrosive Coating | X 腐蚀<br>Y 腐蚀 2秒 | Impact axe leaves an acid trail |
 | ![  =50x50 ](../../overclock/image/ZoneFire_2.png) | Diesel Soaked | X 燃烧<br>Y 燃烧 2秒 | Impact axe leaves a fire trail |
 | ![  =50x50 ](../../overclock/image/RangeIncrease.png) | Lightweight Alloy | +50% 武器射程 | Increase the range of your projectiles |
-| ![  =50x50 ](../../overclock/image/AxeTwinBlades.png) | Colossal Twinblade | +125% 伤害<br>+75% 爆炸半径 | An ancient weapon from a more civilized age |
+| ![  =50x50 ](../../overclock/image/AxeTwinBlades.png) | Colossal Twinblade | +125% 伤害<br>+75% 爆炸范围 | An ancient weapon from a more civilized age |
 | ![  =50x50 ](../../overclock/image/AxeFans.png) | Fan of Axes | -50% 伤害 | Throw smaller axes in an arc |
 
 
