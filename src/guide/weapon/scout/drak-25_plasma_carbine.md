@@ -53,9 +53,9 @@ order: 9
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量<br>-10% 换弹速度 | 提升弹匣容量，牺牲换弹速度 |
-| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Cold Plasma | +15% 伤害<br>+X Slow | Supercooled plasma slows enemies |
+| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | 寒冷电浆（Cold Plasma） | +15% 伤害<br>+13 减速 | 将电浆极端降温，使其减速命中的敌人 |
 | ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Hot Plasma | +15% 伤害<br>+X Burn | Superheats the plasma, burning enemies |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | 灼热电浆（Hot Plasma） | +15% 伤害<br>+13 燃烧 | 将电浆极端升温，使其点燃命中的敌人 |
 | ![  =50x50 ](../../overclock/image/SawnOff.png) | 枪管截短（Sawn-Off） | -50% 武器射程<br>-10 精准度 | 更多弹丸，更短射程 |
 | ![  =50x50 ](../../overclock/image/StormEmag.png) | 暴风退匣（Storm E-Mag） | +10% 换弹速度<br>+10% 射击速度 | 弹匣内的最后一发子弹将同时向所有方向发射 |
 

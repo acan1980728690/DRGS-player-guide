@@ -56,7 +56,7 @@ order: 2
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 小而精悍（Compact Explosives） | +30% 爆炸范围 | 提升爆炸范围 |
 | ![  =50x50 ](../../overclock/image/Mining.png) | True TNT | — | Grenade explosions now deal 伤害 to the terrain |
 | ![  =50x50 ](../../overclock/image/GrenadePull.png) | Gravitational Core | +25% 爆炸范围 | Pulls in enemies before detonation |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害<br>+75% 持续效果强度<br>All other weapons:<br>-20% 持续效果强度<br>-20% 换弹速度 | 你真的很喜欢这把武器 |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害<br>+75% 持续效果强度<br>其他武器:<br>-20% 持续效果强度<br>-20% 换弹速度 | 你真的很喜欢这把武器 |
 
 ## 推荐攻略
 

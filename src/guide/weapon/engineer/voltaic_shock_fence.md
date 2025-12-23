@@ -56,13 +56,13 @@ order: 5
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ZoneCryo.png) | Coolant Leak | — | Turrets slow nearby enemies |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Disposable Tech | +20% 换弹速度<br>-20% 持续时间 | Turrets explode when they are removed |
-| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | Extra Capacity | +1 哨戒炮存储栏位<br>-10% 武器射程 | Adds 1 extra charges |
+| ![  =50x50 ](../../overclock/image/ZoneCryo.png) | 冷剂泄露（Coolant Leak） | — | 哨戒炮将减速周围敌人 |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | 即弃即炸（Disposable Tech） | +20% 换弹速度<br>-20% 持续寿命 | 哨戒炮的持续寿命结束后将爆炸并造成伤害 |
+| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | 额外警戒（Extra Capacity） | +1 哨戒炮存储栏位<br>-10% 武器射程 | 增加一个哨戒炮存储栏位 |
 | ![  =50x50 ](../../overclock/image/WeaponMagnet.png) | Magnetic Alloy | — | Turrets will now pick up nearby XP and Materials |
 | ![  =50x50 ](../../overclock/image/Conduit.png) | Conduit | — | Shoot out electrical beams to all nearby constructs |
-| ![  =50x50 ](../../overclock/image/TurretCap.png) | Extra Capacity | +3 哨戒炮存储栏位<br>-30% 武器射程 | Adds 3 extra charges |
-| ![  =50x50 ](../../overclock/image/RapidDeployment.png) | Rapid Deployment | +2 哨戒炮存储栏位<br>-50% 换弹速度<br>-50% 持续时间 | Places all turrets at once |
+| ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） | +4 哨戒炮存储栏位<br>-30% 武器射程 | 增加四个哨戒炮存储栏位 |
+| ![  =50x50 ](../../overclock/image/RapidDeployment.png) | Rapid Deployment | +2 哨戒炮存储栏位<br>-50% 换弹速度<br>-50% 持续寿命 | Places all turrets at once |
 
 
 ## 推荐攻略

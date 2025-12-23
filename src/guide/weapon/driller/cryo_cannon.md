@@ -41,7 +41,7 @@ order: 9
 | ----------- | ------ |
 |  射线数    |  2     |
 |  射线范围   |  5     |
-|  持续时间    |  15s   |
+|  持续寿命    |  15s   |
 |  攻击间隔    |  0.2s  |
 
 **元素伤害**:
@@ -58,7 +58,7 @@ order: 9
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/BiggerTanks.png) | Bigger Tanks | +100% Lifetime | Increases the life time of your beam |
+| ![  =50x50 ](../../overclock/image/BiggerTanks.png) | Bigger Tanks | +100% 持续寿命 | Increases the life time of your beam |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | Frostburn | +15% 伤害<br>+Burn | It's so cold that... it... burns? |
 | ![  =50x50 ](../../overclock/image/Punch.png) | Impact Punch | +45% 伤害 | Greatly increases 伤害 |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 Beams | Adds more beams |

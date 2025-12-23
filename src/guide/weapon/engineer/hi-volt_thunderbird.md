@@ -49,19 +49,19 @@ order: 4
 
 ## 精通加成
 
-- +12% 效果强度
+- +12% 持续效果强度
 
 ## 超频模组
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/DroneAttack.png) | Behaviour Chip: Aggro | — | Drones will seek out enemies |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Disposable Tech | +100% 持续时间<br>+40% 换弹速度 | Drones explode instead of returning.<br />Lifetime upgrades now shorten the lifetime of the drones. |
-| ![  =50x50 ](../../overclock/image/MoreDrones_2.png) | More Drones | +1 额外无人机 | Add more drones |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | 即弃即炸（Disposable Tech）         | +100% 持续寿命<br>+40% 换弹速度  | 无人机持续寿命借宿后将不会返回至角色，而是爆炸并造成伤害，应用于该无人机的持续寿命升级变为负值 |
+| ![  =50x50 ](../../overclock/image/MoreDrones_2.png) | More Drones | +1 额外无人机 | 增加无人机数量 |
 | ![  =50x50 ](../../overclock/image/PotencyUp.png) | 强力化学（Potent Juice） | +30% 持续效果强度 | 极大提升持续效果强度 |
 | ![  =50x50 ](../../overclock/image/Conduit.png) | Conduit | — | Shoot out electrical beams to all nearby constructs |
 | ![  =50x50 ](../../overclock/image/ElectricalTether.png) | Electrical Tether | — | Drones are now tethered to you by an arc of electricity |
-| ![  =50x50 ](../../overclock/image/MoreDrones.png) | More Drones | +3 额外无人机 | Add more drones |
+| ![  =50x50 ](../../overclock/image/MoreDrones.png) | More Drones | +3 额外无人机 | 增加无人机数量 |
 
 
 ## 推荐攻略

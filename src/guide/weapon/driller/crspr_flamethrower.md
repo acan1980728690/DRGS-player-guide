@@ -48,7 +48,7 @@ order: 3
 |    属性      | 初始值  |
 | ----------- | ------ |
 |  能否留下效果池  | 取决于超频模组 |
-|  效果池持续时间    | 3.00s  |
+|  效果池持续寿命    | 3.00s  |
 
 ## 精通加成
 
@@ -59,10 +59,10 @@ order: 3
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![  =50x50 ](../../overclock/image/BiggerTanks.png) | Bigger Tanks | +100% 持续时间 | Increases the life time of your beam |
-| ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 射线数 | Adds more beams |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Overheat | +100% 伤害<br>-35% 持续时间 | Greatly increases 伤害 at the cost of lifetime |
-| ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 射线数 | That's a lot of beams |
+| ![  =50x50 ](../../overclock/image/BiggerTanks.png) | Bigger Tanks | +100% 持续寿命 | Increases the life time of your beam |
+| ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | 暴力超频（Overheat） | +100% 伤害<br>-35% 持续寿命 | 牺牲持续寿命，极大提升伤害 |
+| ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
 | ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | Spliced Emitter | +75% 武器射程<br>+75% 伤害<br>+75% 持续效果强度 | Better Beams |
 | ![  =50x50 ](../../overclock/image/ZoneFire.png) | Sticky Fuel | — | Add burning zones to the ground |
 

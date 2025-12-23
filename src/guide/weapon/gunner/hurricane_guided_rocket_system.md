@@ -59,7 +59,7 @@ order: 8
 | ![  =50x50 ](../../overclock/image/BiggerExplosions.png) | Runic Warhead | +50% 爆炸范围 | Bigger explosions |
 | ![  =50x50 ](../../overclock/image/AddRockets_2.png) | Spare Rockets | +3 Clip Size | Add 3 more rockets |
 | ![  =50x50 ](../../overclock/image/AddRockets.png) | Extra Rocket Drum | Add a lot more rockets | — |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>其他武器:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

@@ -64,8 +64,8 @@ order: 7
 | ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -30% 伤害 | 手雷丢出后会分类成三颗更弱的手雷 |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 小而精悍（Compact Explosives） | +30% 爆炸范围 | 提升爆炸范围 |
 | ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
-| ![  =50x50 ](../../overclock/image/OneHanded.png) | Akimbo | — | Shoots an additional time in the opposite direction |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害<br>+30% 爆炸范围<br>所有其他武器：<br>-25% 伤害<br>-20% 爆炸范围 | 你真的很喜欢这把武器 |
+| ![  =50x50 ](../../overclock/image/OneHanded.png) | 前后互搏（Akimbo） | — | 额外向射击的反方向发射子弹 |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害<br>+30% 爆炸范围<br>其他武器：<br>-25% 伤害<br>-20% 爆炸范围 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

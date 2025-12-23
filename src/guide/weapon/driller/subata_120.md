@@ -53,13 +53,13 @@ order: 1
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/DamageAcid.png) | Acid Dipped Tips | 改变伤害类型为[腐蚀] | — |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量<br>-10% 换弹速度 | 提升弹匣容量，牺牲换弹速度 |
+| ![  =50x50 ](../../overclock/image/DamageAcid.png) | 淬毒弹头（Acid Dipped Tips） | 将伤害类型变为**腐蚀** | — |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量<br>+50%穿透 | - |
 | ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | 油爆弹头（Pan Fried Shells） | 将伤害类型变为**燃烧** | - |
-| ![  =50x50 ](../../overclock/image/Light.png) | Sidearm | -20% 伤害<br>所有其他武器:<br>+25% 伤害 | Reduces the 伤害, but increases the 伤害 for all other weapons |
-| ![  =50x50 ](../../overclock/image/OneHanded.png) | Akimbo | +15% 射击速度<br>+15% 效果强度 | Shoots an additional time in the opposite direction |
-| ![  =50x50 ](../../overclock/image/DoubleBarrel.png) | Double Barrel! | — | Shoot two parallel bullets |
+| ![  =50x50 ](../../overclock/image/Light.png) | 指定副手（Sidearm） | -20% 伤害<br>其他武器:<br>+25% 伤害 | 降低自身伤害，提升其他武器的伤害 |
+| ![  =50x50 ](../../overclock/image/OneHanded.png) | 前后互搏（Akimbo） | +25% 射击速度<br>+25% 持续效果强度 | 额外向射击的反方向发射子弹 |
+| ![  =50x50 ](../../overclock/image/DoubleBarrel.png) | 双重枪管（Double Barrel!） | — | 每次射出两颗平行移动的子弹 |
 
 
 ## 推荐攻略

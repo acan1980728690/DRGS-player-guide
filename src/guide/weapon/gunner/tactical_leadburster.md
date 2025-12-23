@@ -59,11 +59,11 @@ order: 5
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -15% 伤害<br>-15% 射击速度<br>-15% 换弹速度 | 手雷丢出后会分类成三颗更弱的手雷 |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Fire Bullets | — | Change the 伤害 type to [FIRE]<br>Now shoots fire bullets |
-| ![  =50x50 ](../../overclock/image/Duration.png) | Fusion Turbines | +20% Lifetime | Increases the lifespan of each grenade |
-| ![  =50x50 ](../../overclock/image/Pierce.png) | Piercing Projectiles | +200% Piercing<br>-30% Lifetime | Leadburster projectiles pierce even more enemies |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | 火焰铅弹（Fire Bullets） | 将伤害类型变为**燃烧** | 射出的铅弹变为燃烧铅弹 |
+| ![  =50x50 ](../../overclock/image/Duration.png) | 热核轮机（Fusion Turbines） | +20% 持续寿命 | 提升手雷的持续寿命 |
+| ![  =50x50 ](../../overclock/image/Pierce.png) | 穿深铅弹（Piercing Projectiles） | +200% 穿透<br>-30% 持续寿命 | 战术铅暴雷的发射物将穿透更多敌人 |
 | ![  =50x50 ](../../overclock/image/Medium.png) | 镀铅弹药（Lead Wrapped Ammo） | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>其他武器:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

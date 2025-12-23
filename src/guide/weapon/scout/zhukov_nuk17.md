@@ -53,7 +53,7 @@ order: 1
 | ![ =50x50](../../overclock/image/Pierce.png) | 大口径弹（High Caliber Rounds） | +100% 穿透<br>+30% 伤害<br>-30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
 | ![ =50x50](../../overclock/image/DamageCryo_2.png) | Refrigerated Gunpowder | Change the 伤害 type to [COLD] | — |
 | ![ =50x50](../../overclock/image/Medium.png) | 镀铅弹药（Lead Wrapped Ammo） | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
-| ![ =50x50](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
+| ![ =50x50](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>其他武器:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
 
 ## 推荐攻略
 

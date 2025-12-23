@@ -50,12 +50,12 @@ order: 9
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ZoneCryo.png) | Coolant Leak | — | Turrets slow nearby enemies |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | Disposable Tech | +100% 换弹速度<br>-50% Lifetime | Turrets explode when they are removed |
-| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | Extra Capacity | +1 Turrets | Adds 1 extra charges |
-| ![  =50x50 ](../../overclock/image/TurretTracks.png) | Tank Tracks | — | The turrets will follow you around |
-| ![  =50x50 ](../../overclock/image/TurretCap.png) | Extra Capacity | +3 Turrets | Adds 3 extra charges |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+50% Lifetime<br>All other weapons:<br>-30% 伤害<br>-25% Lifetime | 你真的很喜欢这把武器 |
+| ![  =50x50 ](../../overclock/image/ZoneCryo.png) | 冷剂泄露（Coolant Leak） | — | 哨戒炮将减速周围敌人 |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | 即弃即炸（Disposable Tech） | +100% 换弹速度<br>-50% 持续寿命 | 哨戒炮的持续寿命结束后将爆炸并造成伤害 |
+| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | 额外警戒（Extra Capacity） | +1 哨戒炮存储栏位 | 增加1个哨戒炮存储栏位 |
+| ![  =50x50 ](../../overclock/image/TurretTracks.png) | 坦克履带（Tank Tracks） | — | 哨戒炮将跟随角色移动 |
+| ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） |  +3 哨戒炮存储栏位 <br> +15% 伤害 | 增加3个哨戒炮存储栏位 |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+50% 持续寿命<br>其他武器:<br>-30% 伤害<br>-25% 持续寿命 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

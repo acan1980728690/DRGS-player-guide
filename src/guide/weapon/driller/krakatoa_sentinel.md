@@ -57,11 +57,11 @@ order: 4
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | Extra Capacity | +1 Turrets | Adds 1 extra charges |
-| ![  =50x50 ](../../overclock/image/Mining.png) | Mining Directive | — | Turrets can now break terrain |
-| ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 射线数 | Adds more beams |
-| ![  =50x50 ](../../overclock/image/TurretTracks.png) | Tank Tracks | — | The turrets will follow you around |
-| ![  =50x50 ](../../overclock/image/TurretCap.png) | Extra Capacity | +3 Turrets | Adds 3 extra charges |
+| ![  =50x50 ](../../overclock/image/TurretCap_2.png) | 额外警戒（Extra Capacity） | +1 哨戒炮存储栏位<br>+10% 伤害 | 增加一个哨戒炮存储栏位 |
+| ![  =50x50 ](../../overclock/image/Mining.png) | 挖掘指令（Mining Directive） | — | 哨戒炮将主动对周围岩体造成伤害 |
+| ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
+| ![  =50x50 ](../../overclock/image/TurretTracks.png) | 坦克履带（Tank Tracks） | — | 哨戒炮将跟随角色移动 |
+| ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） |  +4 哨戒炮存储栏位 | 增加四个哨戒炮存储栏位 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | Krakatoa Protocol | +100% 伤害<br>+100% 持续效果强度 | Supercharged Sentinel |
 
 

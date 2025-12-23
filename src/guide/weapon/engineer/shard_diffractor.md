@@ -56,13 +56,13 @@ order: 9
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Cold Plasma | +15% 伤害<br>+X 减速 | Supercooled plasma slows enemies |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Hot Plasma | +15% 伤害<br>+X 燃烧 | Superheats the plamsa, burning enemies |
-| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | Ionized Plasma | +15% 伤害<br>+<1.1 持续效果强度> 触电 | Ionizes the plasma, shocking enemies |
-| ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 射线 | Adds more beams |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Overheat | +100% 伤害<br>-35% 持续时间 | Greatly increases 伤害 at the cost of lifetime |
-| ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 射线 | That's a lot of beams |
-| ![  =50x50 ](../../overclock/image/LessLifetime.png) | Overcharged Fuelcells | +175% 伤害<br>-40% 持续时间 | Greatly increase 伤害 at the cost of life time |
+| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | 寒冷电浆（Cold Plasma） | +15% 伤害<br>+13 减速 | 将电浆极端降温，使其减速命中的敌人 |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | 灼热电浆（Hot Plasma） | +15% 伤害<br>+13 燃烧 | 将电浆极端升温，使其点燃命中的敌人 |
+| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | 电离电浆（Ionized Plasma） | +15% 伤害<br>+(1.1持续效果强度) 触电 | 将电浆电离化，使其电击命中的敌人 |
+| ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | 暴力超频（Overheat） | +100% 伤害<br>-35% 持续寿命 | 牺牲持续寿命，极大提升伤害 |
+| ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
+| ![  =50x50 ](../../overclock/image/Less持续寿命.png) | 燃料过充（Overcharged Fuelcells） | +175% 伤害<br>-40% 持续寿命 | 牺牲持续寿命，极大提升伤害 |
 
 
 ## 推荐攻略

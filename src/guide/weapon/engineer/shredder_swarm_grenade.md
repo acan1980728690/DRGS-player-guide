@@ -52,10 +52,10 @@ order: 11
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -30% 伤害<br>-30% 持续效果强度 | 手雷丢出后会分类成三颗更弱的手雷 |
-| ![  =50x50 ](../../overclock/image/MoreDrones_2.png) | More Drones | +1 额外无人机 | Add more drones |
-| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Tape Some Ice to It! | — | Adds a highly potent cryo explosion to the grenade |
-| ![  =50x50 ](../../overclock/image/ElectricalTether.png) | Electrified Dispenser | — | Drones tether to the grenade with an electrical arc |
-| ![  =50x50 ](../../overclock/image/MoreDrones.png) | More Drones | +3 额外无人机 | Add more drones |
+| ![  =50x50 ](../../overclock/image/MoreDrones_2.png) | 更多无人机（More Drones） | +1 额外无人机 | 增加无人机数量 |
+| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | 土质降温（Tape Some Ice to It!） | — | 手雷爆炸时将同时赋予高强度的急冻效果 |
+| ![  =50x50 ](../../overclock/image/ElectricalTether.png) | 电力分流（Electrified Dispenser） | — | 无人机与手雷本体之间产生电流射线 |
+| ![  =50x50 ](../../overclock/image/MoreDrones.png) | 更多无人机（More Drones） | +3 额外无人机 | 增加无人机数量 |
 
 
 ## 推荐攻略

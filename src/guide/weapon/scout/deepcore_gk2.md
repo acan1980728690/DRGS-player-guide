@@ -61,7 +61,7 @@ order: 4
 | ![ =50x50](../../overclock/image/Pierce.png) | 大口径弹（High Caliber Rounds） | +100% 穿透<br>+30% 伤害<br>-30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
 | ![ =50x50](../../overclock/image/DamageCryo_2.png) | Refrigerated Gunpowder | Change the 伤害 type to [COLD] | — |
 | ![ =50x50](../../overclock/image/Medium.png) | 镀铅弹药（Lead Wrapped Ammo） | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
-| ![ =50x50](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>All other weapons:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
+| ![ =50x50](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>其他武器:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
 ## 推荐攻略
 
 转电转冰都可以，很适合拿来当作副c过渡使用，在难度较低时完全可以当作主c使用，推荐优先加点射速和换弹，当主c用拿巨兽猎人，18级拿心头之好，当副c用优先转电或者转冰，升到12级即可
