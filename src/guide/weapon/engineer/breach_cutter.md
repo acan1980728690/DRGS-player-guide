@@ -65,8 +65,8 @@ order: 8
 | ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | 灼热电浆（Hot Plasma） | +15% 伤害<br>+13 燃烧 | 将电浆极端升温，使其点燃命中的敌人 |
 | ![  =50x50 ](../../overclock/image/DamageElectrical.png) | 电离电浆（Ionized Plasma） | +15% 伤害<br>+(1.1持续效果强度) 触电 | 将电浆电离化，使其电击命中的敌人 |
-| ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 射线 | Adds more beams |
-| ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 射线 | That's a lot of beams |
+| ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
+| ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
 | ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | Experimental Cluster Projectiles | — | Plasma balls split into smaller projectiles when they expire |
 
 

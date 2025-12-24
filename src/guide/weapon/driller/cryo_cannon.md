@@ -61,9 +61,9 @@ order: 9
 | ![  =50x50 ](../../overclock/image/BiggerTanks.png) | Bigger Tanks | +100% 持续寿命 | Increases the life time of your beam |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | Frostburn | +15% 伤害<br>+Burn | It's so cold that... it... burns? |
 | ![  =50x50 ](../../overclock/image/Punch.png) | Impact Punch | +45% 伤害 | Greatly increases 伤害 |
-| ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 Beams | Adds more beams |
-| ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 Beams | That's a lot of beams |
-| ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | Spliced Emitter | +75% Weapon Range<br>+75% 伤害<br>+75% 持续效果强度 | Better Beams |
+| ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
+| ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
+| ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | Spliced Emitter | +75% 武器射程<br>+75% 伤害<br>+75% 持续效果强度 | Better Beams |
 
 
 

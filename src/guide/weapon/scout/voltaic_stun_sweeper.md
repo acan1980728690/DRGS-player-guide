@@ -42,12 +42,12 @@ order: 6
 
 | 图标                                                   | 名称                      | 效果                                    | 游戏内描述                                                                             |
 | ------------------------------------------------------ | ------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![  =50x50 ](../../overclock/image/WeaponMagnet.png)   | Kinda Looks Like a Magnet | —                                       | The Stun Sweeper will now pick up XP and Materials                                     |
-| ![  =50x50 ](../../overclock/image/SpiralFlight.png)   | Knuckle Grip              | +350% Weapon Range<br>-40% 换弹速度 | Files in an outward spiral before returning                                            |
-| ![  =50x50 ](../../overclock/image/RangeIncrease.png)  | Lightweight Alloy         | +30% Weapon Range<br>+15% 换弹速度  | Increase the range of your Voltaic Stun Sweeper                                        |
+| ![  =50x50 ](../../overclock/image/WeaponMagnet.png)   | “有点形似磁铁...”（Kinda Looks Like a Magnet） | —                                       | 强电震击镖现在会拾取路径上的经验及矿石材料                                     |
+| ![  =50x50 ](../../overclock/image/SpiralFlight.png)   | 指虎握把（Knuckle Grip）              | +350% 武器射程<br>-25% 换弹速度 | 回旋镖将以螺旋路径飞出                                            |
+| ![  =50x50 ](../../overclock/image/RangeIncrease.png)  | 轻量合金（Lightweight Alloy）         | +30% 武器射程<br>+15% 换弹速度  | 提升强电震击镖的射程                                        |
 | ![  =50x50 ](../../overclock/image/PotencyUp.png)      | 强力化学（Potent Juice） | +30% 持续效果强度 | 极大提升持续效果强度 |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | 即弃即炸（Disposable Tech）          | —                                       | The Stun Sweeper no longer returns to you, but instead explodes in an electrical burst |
-| ![  =50x50 ](../../overclock/image/OneHanded.png)      | One-Handed                | —                                       | Throw an additional Stun Sweeper in the opposite direction                             |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | 即弃即炸（Disposable Tech）          | —                                       | 丢出的强电震击镖将不会回到角色身上，而是爆炸并释放造成范围伤害的电磁波 |
+| ![  =50x50 ](../../overclock/image/OneHanded.png)      | 单手技巧（One-Handed）                | —                                       | 额外向投掷的反方向丢出一个强电震击镖                            |
 
 ## 推荐攻略
 

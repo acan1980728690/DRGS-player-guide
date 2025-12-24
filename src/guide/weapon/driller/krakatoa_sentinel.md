@@ -61,8 +61,8 @@ order: 4
 | ![  =50x50 ](../../overclock/image/Mining.png) | 挖掘指令（Mining Directive） | — | 哨戒炮将主动对周围岩体造成伤害 |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
 | ![  =50x50 ](../../overclock/image/TurretTracks.png) | 坦克履带（Tank Tracks） | — | 哨戒炮将跟随角色移动 |
-| ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） |  +4 哨戒炮存储栏位 | 增加四个哨戒炮存储栏位 |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Krakatoa Protocol | +100% 伤害<br>+100% 持续效果强度 | Supercharged Sentinel |
+| ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） |  +3 哨戒炮存储栏位 <br> +10% 武器射程 | 增加3个哨戒炮存储栏位 |
+| ![  =50x50 ](../../overclock/image/Krakatoa.png) | 喷发协议（Krakatoa Protocol） | - | 哨戒炮的持续寿命结束后将爆炸并造成伤害，并在地上留下一片带电火海 |
 
 
 ## 推荐攻略

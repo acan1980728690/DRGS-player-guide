@@ -61,7 +61,7 @@ order: 7
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/DroneDefense.png) | Behaviour Chip: Defensive | +2 Extra Drones<br>-10% Weapon Range | Drones will circle around the player |
+| ![  =50x50 ](../../overclock/image/DroneDefense.png) | Behaviour Chip: Defensive | +2 Extra Drones<br>-10% 武器射程 | Drones will circle around the player |
 | ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | 即弃即炸（Disposable Tech）         | +100% 持续寿命<br>+40% 换弹速度  | 无人机持续寿命借宿后将不会返回至角色，而是爆炸并造成伤害，应用于该无人机的持续寿命升级变为负值 |
 | ![  =50x50 ](../../overclock/image/Mining.png) | Drone Mining 伤害 | — | Drones now do 伤害 to the terrain |
 | ![  =50x50 ](../../overclock/image/MoreDrones.png) | More Drones | +1 Extra Drones | 增加无人机数量 |

@@ -59,10 +59,10 @@ order: 5
 | ![  =50x50 ](../../overclock/image/ZoneCryo.png) | 冷剂泄露（Coolant Leak） | — | 哨戒炮将减速周围敌人 |
 | ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | 即弃即炸（Disposable Tech） | +20% 换弹速度<br>-20% 持续寿命 | 哨戒炮的持续寿命结束后将爆炸并造成伤害 |
 | ![  =50x50 ](../../overclock/image/TurretCap_2.png) | 额外警戒（Extra Capacity） | +1 哨戒炮存储栏位<br>-10% 武器射程 | 增加一个哨戒炮存储栏位 |
-| ![  =50x50 ](../../overclock/image/WeaponMagnet.png) | Magnetic Alloy | — | Turrets will now pick up nearby XP and Materials |
-| ![  =50x50 ](../../overclock/image/Conduit.png) | Conduit | — | Shoot out electrical beams to all nearby constructs |
-| ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） | +4 哨戒炮存储栏位<br>-30% 武器射程 | 增加四个哨戒炮存储栏位 |
-| ![  =50x50 ](../../overclock/image/RapidDeployment.png) | Rapid Deployment | +2 哨戒炮存储栏位<br>-50% 换弹速度<br>-50% 持续寿命 | Places all turrets at once |
+| ![  =50x50 ](../../overclock/image/WeaponMagnet.png) | 磁性合金（Magnetic Alloy） | — | 哨戒炮现在会拾取周围的经验及矿石材料 |
+| ![  =50x50 ](../../overclock/image/Conduit.png) | 电流疏导（Conduit） | — | 与本体周围的建筑物之间形成电流射线 |
+| ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） | +3 哨戒炮存储栏位<br>-30% 武器射程 | 增加3个哨戒炮存储栏位 |
+| ![  =50x50 ](../../overclock/image/RapidDeployment.png) | 快速部署（Rapid Deployment） | +2 哨戒炮存储栏位<br>-50% 换弹速度<br>-50% 持续寿命 | 一次性部署所有的哨戒炮 |
 
 
 ## 推荐攻略

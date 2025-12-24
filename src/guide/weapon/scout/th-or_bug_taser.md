@@ -56,10 +56,10 @@ order: 7
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
 | ![  =50x50 ](../../overclock/image/ExplodeReload.png) | 爆破装填（Explosive Reload） | +25% 换弹速度 | 武器开始换弹时将在自身位置产生一次爆炸 |
-| ![  =50x50 ](../../overclock/image/BeamCount.png) | More Beams | +1 Beams | Adds more beams |
+| ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
 | ![  =50x50 ](../../overclock/image/Light.png) | 指定副手（Sidearm） | -20% 伤害<br>其他武器:<br>+25% 伤害 | 降低自身伤害，提升其他武器的伤害 |
-| ![  =50x50 ](../../overclock/image/MoreBeams.png) | Even More Beams | +3 Beams | That's a lot of beams |
-| ![  =50x50 ](../../overclock/image/UnlimitedPower.png) | Unlimited Power | — | Splits into multiple beams |
+| ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
+| ![  =50x50 ](../../overclock/image/UnlimitedPower.png) | 无限电力（Unlimited Power） | — | 每段射线将产生额外的电流射线分支 |
 
 ## 推荐攻略
 
