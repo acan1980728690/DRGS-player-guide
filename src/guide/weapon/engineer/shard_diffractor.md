@@ -62,7 +62,7 @@ order: 9
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | 暴力超频（Overheat） | +100% 伤害<br>-35% 持续寿命 | 牺牲持续寿命，极大提升伤害 |
 | ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
-| ![  =50x50 ](../../overclock/image/Less持续寿命.png) | 燃料过充（Overcharged Fuelcells） | +175% 伤害<br>-40% 持续寿命 | 牺牲持续寿命，极大提升伤害 |
+| ![  =50x50 ](../../overclock/image/LessLifetime.png) | 燃料过充（Overcharged Fuelcells） | +175% 伤害<br>-40% 持续寿命 | 牺牲持续寿命，极大提升伤害 |
 
 
 ## 推荐攻略
