@@ -50,12 +50,12 @@ order: 3
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | Battery Bullets | Change the 伤害 type to [ELECTRICAL] | [Weapon] fires electrical bullets |
+| ![  =50x50 ](../../overclock/image/DamageElectrical.png) | 蓄电子弹（Battery Bullets） | 将伤害类型变为**电击** | - |
 | ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量<br>-10% 换弹速度 | 提升弹匣容量，牺牲换弹速度 |
-| ![  =50x50 ](../../overclock/image/RangeIncrease.png) | High Velocity Bullets | +50% 武器射程<br>+10% 伤害 | Increase the range of your projectiles |
-| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | Refrigerated Gunpowder | Change the 伤害 type to [COLD] | — |
-| ![  =50x50 ](../../overclock/image/Minipellets.png) | Mini Pellets | -10% 伤害 | Shotgun shells contain twice as many pellets, but they do less 伤害 |
-| ![  =50x50 ](../../overclock/image/Fatboy.png) | 壮男孩（Thick Boy） | +200% 穿透<br>+200% 武器射程<br>持续效果强度 now scales with clip size | 将弹匣内所有子弹融合成一发“壮男孩”，极大提升伤害，换弹速度减慢 |
+| ![  =50x50 ](../../overclock/image/RangeIncrease.png) | 高速子弹（High Velocity Bullets） | +50% 武器射程<br>+10% 伤害 | 提升发射物射程 |
+| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | 低温火药（Refrigerated Gunpowder） | 将伤害类型变为**急冻** | — |
+| ![  =50x50 ](../../overclock/image/Minipellets.png) | 迷你弹丸（Mini Pellets） | - | 霰弹弹壳内现在所能容纳双倍的弹丸，但单颗弹丸所造成的伤害有所减少 |
+| ![  =50x50 ](../../overclock/image/Fatboy.png) | 壮男孩（Thick Boy） | +200% 穿透<br>+200% 武器射程<br>持续效果强度现在会根据弹匣容量大小获得加成 | 将弹匣内所有子弹融合成一发“壮男孩”，极大提升伤害，换弹速度减慢 |
 
 
 

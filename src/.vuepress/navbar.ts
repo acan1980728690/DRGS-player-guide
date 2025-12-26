@@ -7,7 +7,7 @@ export default navbar([
     prefix: "/guide/",
     children: [
       "resource.md",
-      "weapon/rank.md",
+      "weapon/README.md",
       "creature/README.md",
       "biome/README.md",
     ],

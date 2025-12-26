@@ -62,6 +62,7 @@ order: 1
 | ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） | +4 哨戒炮存储栏位<br>+10% 伤害 | 增加4个哨戒炮存储栏位 |
 | ![  =50x50 ](../../overclock/image/TurretOverload.png) | 机枪过载（LMG Overload） | +100% 射击速度<br>-15 精准度 | 牺牲精准，极大提升射速 |
 
+> 注：根据wiki来看，Battery Bullets为子弹蓄电，并且有描述应该才是对的。有很多个叫蓄电子弹的，和这个子弹蓄电是同一个，不过没有描述，可能是忘记更新了。2025.12.25留
 
 ## 推荐攻略
 
