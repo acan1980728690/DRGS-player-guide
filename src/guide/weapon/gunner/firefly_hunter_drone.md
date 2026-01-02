@@ -61,11 +61,11 @@ order: 7
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/DroneDefense.png) | 行为逻辑芯片：护卫（Behaviour Chip: Defensive） | +2 额外无人机<br>-10% 武器射程 | 无人机将在玩家周围盘旋 |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | 即弃即炸（Disposable Tech）         | +100% 持续寿命<br>+40% 换弹速度  | 无人机持续寿命结束后将不会返回至角色，而是爆炸并造成伤害，应用于该无人机的持续寿命升级变为负值 |
-| ![  =50x50 ](../../overclock/image/Mining.png) | Drone Mining 伤害 | — | Drones now do 伤害 to the terrain |
+| ![  =50x50 ](../../overclock/image/DroneDefense.png) | 行为逻辑芯片：护卫（Behaviour Chip: Defensive） | +2 额外无人机 <br> -10% 武器射程 | 无人机将在玩家周围盘旋 |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn_2.png) | 即弃即炸（Disposable Tech）         | +100% 持续寿命 <br> +40% 换弹速度  | 无人机持续寿命结束后将不会返回至角色，而是爆炸并造成伤害，应用于该无人机的持续寿命升级变为负值 |
+| ![  =50x50 ](../../overclock/image/Mining.png) | 无人机地形破坏（Drone Mining Damage） | — | 无人机将对岩体造成伤害 |
 | ![  =50x50 ](../../overclock/image/MoreDrones.png) | 更多无人机（More Drones） | +1 额外无人机 | 增加无人机数量 |
-| ![  =50x50 ](../../overclock/image/ZoneFire.png) | Fuel Leak | +20% 持续效果强度 | Fire drones leave a trail of fire |
+| ![  =50x50 ](../../overclock/image/ZoneFire.png) | 油料泄露（Fuel Leak） | +20% 持续效果强度 | 燃烧无人机飞行时将留下燃烧尾迹 |
 | ![  =50x50 ](../../overclock/image/MoreDrones.png) | 更多无人机（More Drones） | +3 额外无人机 | 增加无人机数量 |
 
 

@@ -51,12 +51,12 @@ order: 2
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -20% 伤害<br>-20% 持续效果强度 | 手雷丢出后会分类成三颗更弱的手雷 |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害 <br> +25% 换弹速度 | 提升伤害和换弹速度 |
+| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -20% 伤害 <br> -20% 持续效果强度 | 手雷丢出后会分类成三颗更弱的手雷 |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 小而精悍（Compact Explosives） | +30% 爆炸范围 | 提升爆炸范围 |
-| ![  =50x50 ](../../overclock/image/Mining.png) | True TNT | — | Grenade explosions now deal 伤害 to the terrain |
-| ![  =50x50 ](../../overclock/image/GrenadePull.png) | Gravitational Core | +25% 爆炸范围 | Pulls in enemies before detonation |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害<br>+75% 持续效果强度<br>其他武器:<br>-20% 持续效果强度<br>-20% 换弹速度 | 你真的很喜欢这把武器 |
+| ![  =50x50 ](../../overclock/image/Mining.png) | 矿山炸药(True TNT) | — | 手雷爆炸将对岩体造成伤害 |
+| ![  =50x50 ](../../overclock/image/GrenadePull.png) | 引力核心（Gravitational Core） | +25% 爆炸范围 | 手雷爆炸前会将范围内的敌人拉向自身 |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害 <br> +75% 持续效果强度 <br> 其他武器: <br> -20% 持续效果强度 <br> -20% 换弹速度 | 你真的很喜欢这把武器 |
 
 ## 推荐攻略
 

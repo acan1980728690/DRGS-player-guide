@@ -59,12 +59,12 @@ order: 11
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | 寒冷电浆（Cold Plasma） | +15% 伤害<br>+13 减速 | 将电浆极端降温，使其减速命中的敌人 |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | 灼热电浆（Hot Plasma） | +15% 伤害<br>+13 燃烧 | 将电浆极端升温，使其点燃命中的敌人 |
-| ![  =50x50 ](../../overclock/image/GrenadePull_2.png) | Vortex Core | — | EPC projectiles now pull in a radius around them |
-| ![  =50x50 ](../../overclock/image/ZoneFire.png) | Drippin Balls | — | Dripping hot plasma sets the ground on fire |
-| ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | Experimental Cluster Projectiles | — | Plasma balls split into smaller projectiles when they expire |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害 <br> +25% 换弹速度 | 提升伤害和换弹速度 |
+| ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | 寒冷电浆（Cold Plasma） | +15% 伤害 <br> +X 减速 | 将电浆极端降温，使其减速命中的敌人 |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | 灼热电浆（Hot Plasma） | +15% 伤害 <br> +X 燃烧 | 将电浆极端升温，使其点燃命中的敌人 |
+| ![  =50x50 ](../../overclock/image/GrenadePull_2.png) | 漩涡核心（Vortex Core） | — | 等离子蓄能手枪的发射物现在会将周围的敌人拉向自身 |
+| ![  =50x50 ](../../overclock/image/ZoneFire.png) | 热得流油（Drippin Balls） | — | 灼热的电浆将把经过的地面点燃 |
+| ![  =50x50 ](../../overclock/image/ExplodeDespawn.png) | 电浆离散（Experimental Cluster Projectiles） | — | 电浆球消散后将分裂出数个小型发射物 |
 
 
 ## 推荐攻略

@@ -54,12 +54,12 @@ order: 8
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![  =50x50 ](../../overclock/image/ZoneFire_2.png) | Incendiary Payload | — | Rockets set the ground on fire |
-| ![  =50x50 ](../../overclock/image/BiggerExplosions.png) | Runic Warhead | +50% 爆炸范围 | Bigger explosions |
-| ![  =50x50 ](../../overclock/image/AddRockets_2.png) | Spare Rockets | +3 Clip Size | Add 3 more rockets |
-| ![  =50x50 ](../../overclock/image/AddRockets.png) | Extra Rocket Drum | Add a lot more rockets | — |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>其他武器:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 活力四射（A Little More Oomph!） | +15% 伤害 <br> +25% 换弹速度 | 提升伤害和换弹速度 |
+| ![  =50x50 ](../../overclock/image/ZoneFire_2.png) | 燃剂载荷（Incendiary Payload） | — | 火箭弹爆炸时将地面点燃 |
+| ![  =50x50 ](../../overclock/image/BiggerExplosions.png) | 附魔导弹（Runic Warhead） | +50% 爆炸范围 | 爆炸范围更大 |
+| ![  =50x50 ](../../overclock/image/AddRockets_2.png) | 额外火箭（Spare Rockets） | +3 弹匣容量 | 增加三枚火箭弹 |
+| ![  =50x50 ](../../overclock/image/AddRockets.png) | 额外弹鼓（Extra Rocket Drum） | +100% 弹匣容量 | 增加火箭弹数量 |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +75% 伤害 <br> +30% 爆炸范围 <br> 其他武器: <br> -25% 伤害 <br> -20% 爆炸范围 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

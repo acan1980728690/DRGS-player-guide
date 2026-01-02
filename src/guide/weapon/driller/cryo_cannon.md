@@ -58,12 +58,12 @@ order: 9
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/BiggerTanks.png) | Bigger Tanks | +100% 持续寿命 | Increases the life time of your beam |
-| ![  =50x50 ](../../overclock/image/DamageFire.png) | Frostburn | +15% 伤害<br>+Burn | It's so cold that... it... burns? |
-| ![  =50x50 ](../../overclock/image/Punch.png) | Impact Punch | +45% 伤害 | Greatly increases 伤害 |
+| ![  =50x50 ](../../overclock/image/BiggerTanks.png) | 更大储量（Bigger Tanks） | +100% 持续寿命 <br> +10%武器射程 | 提升射线持续寿命 |
+| ![  =50x50 ](../../overclock/image/DamageFire.png) | 低温灼烧（Frostburn） | +15% 伤害 <br> +X 燃烧 | 冷到极致就是...烧...？ |
+| ![  =50x50 ](../../overclock/image/Punch.png) | 化学冲击（Impact Punch） | +60% 伤害 | - |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
 | ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
-| ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | Spliced Emitter | +75% 武器射程<br>+75% 伤害<br>+75% 持续效果强度 | Better Beams |
+| ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | 复合发射口（Spliced Emitter） | +75% 武器射程<br>+75% 伤害<br>+75% 持续效果强度 | 提升射线品质 |
 
 
 

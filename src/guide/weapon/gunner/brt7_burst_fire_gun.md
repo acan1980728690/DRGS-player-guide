@@ -60,8 +60,8 @@ order: 4
 | ![  =50x50 ](../../overclock/image/Pierce.png) | 大口径弹（High Caliber Rounds） | +100% 穿透<br>+30% 伤害<br>-30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | 油爆弹头（Pan Fried Shells） | 将伤害类型变为**燃烧** | - |
 | ![  =50x50 ](../../overclock/image/Light.png) | 指定副手（Sidearm） | -20% 伤害<br>其他武器:<br>+25% 伤害 | 降低自身伤害，提升其他武器的伤害 |
-| ![  =50x50 ](../../overclock/image/DeathSpiral.png) | Bullet Helix | +200% 射击速度<br>+100% Clip Size | Shoot in a spiral pattern |
-| ![  =50x50 ](../../overclock/image/8Directions.png) | Omni Barrel | +100% 换弹速度<br>+50% 伤害<br>+50% 穿透 | Fires in 8 directions |
+| ![  =50x50 ](../../overclock/image/DeathSpiral.png) | 子弹漩涡（Bullet Helix） | +200% 射击速度<br>+100% 弹匣容量 | 旋转着射出子弹 |
+| ![  =50x50 ](../../overclock/image/8Directions.png) | 威震八方（Omni Barrel） | +50% 换弹速度<br> +50% 射击速度<br> +50% 伤害<br>+50% 穿透 | 射击变为覆盖八个方向 |
 
 
 ## 推荐攻略

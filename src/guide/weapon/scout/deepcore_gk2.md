@@ -55,13 +55,13 @@ order: 4
 
 | 图标 | 名称 | 效果 | 游戏内描述 |
 | ---- | ---- | ---- | ---------- |
-| ![ =50x50](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![ =50x50](../../overclock/image/DamageElectrical.png) | Battery Bullets | 将伤害类型变为**电击** | [Weapon] fires electrical bullets |
-| ![ =50x50](../../overclock/image/TargetHP.png) | Big Game Hunter | +10% Critical 伤害<br>+10% Critical Chance | Targets the enemy with the highest HP |
-| ![ =50x50](../../overclock/image/Pierce.png) | 大口径弹（High Caliber Rounds） | +100% 穿透<br>+30% 伤害<br>-30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
+| ![ =50x50](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害 <br> +25% 换弹速度 | 提升伤害和换弹速度 |
+| ![ =50x50](../../overclock/image/DamageElectrical.png) | 蓄电子弹（Battery Bullets） | 将伤害类型变为**电击** | - |
+| ![ =50x50](../../overclock/image/TargetHP.png) | 巨兽猎人（Big Game Hunter） | +20% 暴击几率 <br> +20% 暴击伤害 | 优先攻击血量最高的敌人 |
+| ![ =50x50](../../overclock/image/Pierce.png) | 大口径弹（High Caliber Rounds） | +100% 穿透 <br> +30% 伤害 <br> -30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
 | ![ =50x50](../../overclock/image/DamageCryo_2.png) | 低温火药（Refrigerated Gunpowder） | 将伤害类型变为**急冻** | — |
-| ![ =50x50](../../overclock/image/Medium.png) | 镀铅弹药（Lead Wrapped Ammo） | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
-| ![ =50x50](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>其他武器:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
+| ![ =50x50](../../overclock/image/Medium.png) | 镀铅弹药（Lead Wrapped Ammo） | +150% 伤害 <br> -20% 射击速度<br>-20% 换弹速度 | — |
+| ![ =50x50](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害 <br> +100% 射击速度 <br> 其他武器: <br> -30% 伤害 <br> -30% 射击速度 | 你真的很喜欢这把武器 |
 ## 推荐攻略
 
 转电转冰都可以，很适合拿来当作副c过渡使用，在难度较低时完全可以当作主c使用，推荐优先加点射速和换弹，当主c用拿巨兽猎人，18级拿心头之好，当副c用优先转电或者转冰，升到12级即可

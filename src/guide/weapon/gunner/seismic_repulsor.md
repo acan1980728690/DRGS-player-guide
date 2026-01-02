@@ -55,7 +55,7 @@ order: 9
 | ![  =50x50 ](../../overclock/image/TurretCap_2.png) | 额外警戒（Extra Capacity） | +1 哨戒炮存储栏位 | 增加1个哨戒炮存储栏位 |
 | ![  =50x50 ](../../overclock/image/TurretTracks.png) | 坦克履带（Tank Tracks） | — | 哨戒炮将跟随角色移动 |
 | ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） |  +3 哨戒炮存储栏位 <br> +15% 伤害 | 增加3个哨戒炮存储栏位 |
-| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+50% 持续寿命<br>其他武器:<br>-30% 伤害<br>-25% 持续寿命 | 你真的很喜欢这把武器 |
+| ![  =50x50 ](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害 <br> +50% 持续寿命 <br> 其他武器: <br> -30% 伤害 <br> -25% 持续寿命 | 你真的很喜欢这把武器 |
 
 
 ## 推荐攻略

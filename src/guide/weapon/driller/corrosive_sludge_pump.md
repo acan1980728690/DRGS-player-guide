@@ -61,11 +61,11 @@ order: 5
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![  =50x50 ](../../overclock/image/BiggerTanks.png) | Bigger Tanks | +100% 持续寿命 | Increases the life time of your beam |
-| ![  =50x50 ](../../overclock/image/Punch.png) | Impact Punch | +45% 伤害 | Greatly increases 伤害 |
+| ![  =50x50 ](../../overclock/image/BiggerTanks.png) | 更大储量（Bigger Tanks） | +100% 持续寿命 <br> +10%武器射程 | 提升射线持续寿命 |
+| ![  =50x50 ](../../overclock/image/Punch.png) | 化学冲击（Impact Punch） | +60% 伤害 | - |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
 | ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
-| ![  =50x50 ](../../overclock/image/SludgeTopShelf.png) | Top-Shelf Sludge | +X 燃烧<br>+X 触电 | Adds Burn and Shock status effects to ground zones |
+| ![  =50x50 ](../../overclock/image/SludgeTopShelf.png) | 顶好蚀泥（Top-Shelf Sludge） | +X 燃烧 <br> +X 触电 | 弥留区域将额外赋予燃烧和电击效果 |
 
 
 ## 推荐攻略

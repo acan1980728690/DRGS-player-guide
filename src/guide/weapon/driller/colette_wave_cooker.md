@@ -60,12 +60,12 @@ order: 6
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/FastSpin.png) | Better Ball Bearings | — | Increase rotation speed |
-| ![  =50x50 ](../../overclock/image/BeamSpread_2.png) | Crowd Cooker | — | Increase beam width |
-| ![  =50x50 ](../../overclock/image/BeamRange.png) | Focused Lens | — | Increase beam length but reduce width. Target the enemy with the largest total HP |
-| ![  =50x50 ](../../overclock/image/NanoWaves.png) | Nano Waves | +100% 持续效果强度<br>-30% 伤害 | Less initial 伤害, but increases the applied burn stacks |
-| ![  =50x50 ](../../overclock/image/CentralDeflector.png) | Centralized Reflector | — | Adds an additional beam that fires in the opposite direction |
-| ![  =50x50 ](../../overclock/image/DamageCryo.png) | Thermal Oscillator | +50% 伤害<br>+40% 减速 | WaveCooker now also applies Slow |
+| ![  =50x50 ](../../overclock/image/FastSpin.png) | 高端轴承（Better Ball Bearings） | — | 提升射线旋转速度 |
+| ![  =50x50 ](../../overclock/image/BeamSpread_2.png) | 群虫鼎沸（Crowd Cooker） | — | 提升射线宽度 |
+| ![  =50x50 ](../../overclock/image/BeamRange.png) | 聚焦镜头（Focused Lens） | +100% 伤害 | 提升射线长度，减少射线宽度。优先攻击血量最多的敌人 |
+| ![  =50x50 ](../../overclock/image/NanoWaves.png) | 纳米微波（Nano Waves） | +100% 持续效果强度<br>-30% 伤害 | 降低直接伤害，提升每次伤害所附加的烧伤层数 |
+| ![  =50x50 ](../../overclock/image/CentralDeflector.png) | 中心反射（Centralized Reflector） | — | 额外向反方向射出一条射线 |
+| ![  =50x50 ](../../overclock/image/DamageCryo.png) | 热声制冷（Thermal Oscillator） | +50% 伤害<br>+40% 减速 | 微波烹调者现在会同时对敌人附加急冻 |
 
 
 ## 推荐攻略

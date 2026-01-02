@@ -12,7 +12,6 @@ order: 8
 ---
 
 ![neurotoxin_grenade](./image/Neurotoxin_Grenade.png)
-> 版本1.0.139p
 ## 简介
 
 
@@ -63,7 +62,7 @@ order: 8
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -20% 伤害<br>-20% 持续效果强度 | 手雷丢出后会分类成三颗更弱的手雷 |
+| ![  =50x50 ](../../overclock/image/ClusterGrenade.png) | 集束手雷（Cluster Grenades） | -20% 伤害 <br> -20% 持续效果强度 | 手雷丢出后会分类成三颗更弱的手雷 |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 小而精悍（Compact Explosives） | +30% 爆炸范围 | 提升爆炸范围 |
 | ![  =50x50 ](../../overclock/image/PotencyUp.png) | 强力化学（Potent Juice） | +30% 持续效果强度 | 极大提升持续效果强度 |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 土质增伤（Tape Some Nails to It） | +10% 伤害 | 手雷爆炸时将额外造成一次动能伤害爆炸 |

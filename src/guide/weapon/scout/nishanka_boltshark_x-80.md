@@ -53,11 +53,11 @@ order: 10
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/DamageCryo_2.png) | 冰冻弩箭（Cryo Bolt） | — | 在每轮射击中加入一只冰冻弩箭 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | 火焰弩箭（Fire Bolt） | — | 在每轮射击中加入一只火焰弩箭 |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
-| ![  =50x50 ](../../overclock/image/Knockback.png) | 橡胶弹尖（Rubber Tip） | +15% 伤害<br>+ 击退效果 | 击退敌人 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度 <br> +25% 换弹速度 | 提升射速和换弹速度 |
+| ![  =50x50 ](../../overclock/image/Knockback.png) | 橡胶弹尖（Rubber Tip） | +15% 伤害 <br> + 击退效果 | 击退敌人 |
 | ![  =50x50 ](../../overclock/image/Volley.png) | 万箭齐发（Bolt Volley） | — | 一次射出全部类型的箭矢 |
 | ![  =50x50 ](../../overclock/image/Payload.png) | 电磁负荷（Payload） | — | 当弩箭命中大型敌人或岩体时，将在落点处产生一片造成范围伤害的电磁场 |
-| ![  =50x50 ](../../overclock/image/StormEmag.png) | 暴风退匣（Storm E-Mag） | +10% 换弹速度<br>+10% 射击速度 | 弹匣内的最后一发子弹将同时向所有方向发射 |
+| ![  =50x50 ](../../overclock/image/StormEmag.png) | 暴风退匣（Storm E-Mag） | +10% 换弹速度 <br> +10% 射击速度 | 弹匣内的最后一发子弹将同时向所有方向发射 |
 
 ## 推荐攻略
 

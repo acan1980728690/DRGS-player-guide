@@ -68,7 +68,7 @@ order: 2
 | ![  =50x50 ](../../overclock/image/PotencyUp.png) | 强力化学（Potent Juice） | +30% 持续效果强度 | 极大提升持续效果强度 |
 | ![  =50x50 ](../../overclock/image/DamageExplosive.png) | 土质增伤（Tape Some Nails to It） | +10% 伤害 | 手雷爆炸时将额外造成一次动能伤害爆炸 |
 | ![  =50x50 ](../../overclock/image/GrenadeDamage.png) | 触发背带（Feedback Harness） | — | 受到伤害时将在原地留下数个该手雷，冷却时间10秒 |
-| ![  =50x50 ](../../overclock/image/GrenadePull.png) | Gravitational Core | +25% 爆炸范围 | Pulls in enemies before detonation |
+| ![  =50x50 ](../../overclock/image/GrenadePull.png) | 引力核心（Gravitational Core） | +25% 爆炸范围 | 手雷爆炸前会将范围内的敌人拉向自身 |
 
 
 ## 推荐攻略

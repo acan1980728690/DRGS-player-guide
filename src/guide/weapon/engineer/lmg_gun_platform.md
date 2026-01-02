@@ -12,7 +12,7 @@ order: 1
 ---
 
 ![lmg_gun_platform](./image/LMG_Gun_Platform.png)
-> 版本1.0.139p
+
 ## 简介
 
 
@@ -60,9 +60,8 @@ order: 1
 | ![  =50x50 ](../../overclock/image/DamagePlasma.png) | 电浆覆盖（Plasma Coating） | 将伤害类型变为**电浆**| 轻机枪哨戒炮将射出电浆子弹 |
 | ![  =50x50 ](../../overclock/image/TurretTracks.png) | 坦克履带（Tank Tracks） | — | 哨戒炮将跟随角色移动 |
 | ![  =50x50 ](../../overclock/image/TurretCap.png) | 额外警戒（Extra Capacity） | +4 哨戒炮存储栏位<br>+10% 伤害 | 增加4个哨戒炮存储栏位 |
-| ![  =50x50 ](../../overclock/image/TurretOverload.png) | 机枪过载（LMG Overload） | +100% 射击速度<br>-15 精准度 | 牺牲精准，极大提升射速 |
+| ![  =50x50 ](../../overclock/image/TurretOverload.png) | 机枪过载（LMG Overload） | +100% 射击速度 <br> -15 精准度 | 牺牲精准，极大提升射速 |
 
-> 注：根据wiki来看，Battery Bullets为子弹蓄电，并且有描述应该才是对的。有很多个叫蓄电子弹的，和这个子弹蓄电是同一个，不过没有描述，可能是忘记更新了。2025.12.25留
 
 ## 推荐攻略
 

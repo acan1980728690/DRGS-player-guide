@@ -47,14 +47,14 @@ order: 1
 
 | 图标 | 名称 | 效果 | 游戏内描述 |
 | ---- | ---- | ---- | ---------- |
-| ![ =50x50](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![ =50x50](../../overclock/image/DamageElectrical.png) | Battery Bullets | 将伤害类型变为**电击** | [Weapon] fires electrical bullets |
-| ![ =50x50](../../overclock/image/TargetHP.png) | Big Game Hunter | +10% Critical 伤害<br>+10% Critical Chance | Targets the enemy with the highest HP |
-| ![ =50x50](../../overclock/image/Pierce.png) | 大口径弹（High Caliber Rounds） | +100% 穿透<br>+30% 伤害<br>-30% 射击速度 | 牺牲射速，提升伤害和穿透效果 |
-| ![ =50x50](../../overclock/image/DamageCryo_2.png) | 低温火药（Refrigerated Gunpowder） | 将伤害类型变为**急冻** | — |
-| ![ =50x50](../../overclock/image/Medium.png) | 镀铅弹药（Lead Wrapped Ammo） | +150% 伤害<br>-20% 射击速度<br>-20% 换弹速度 | — |
-| ![ =50x50](../../overclock/image/Favourite.png) | 心头之好（The Favourite） | +100% 伤害<br>+100% 射击速度<br>其他武器:<br>-30% 伤害<br>-30% 射击速度 | 你真的很喜欢这把武器 |
 
+| ![ =50x50](../../overclock/image/DamageElectrical.png) | 蓄电子弹（Battery Bullets） | 将伤害类型变为**电击** | - |
+| ![ =50x50](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量 <br> +50% 穿透 | - |
+| ![  =50x50 ](../../overclock/image/ExplodeReload.png) | 爆破装填（Explosive Reload） | +25% 换弹速度 | 武器开始换弹时将在自身位置产生一次爆炸 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度 <br> +25% 换弹速度 | 提升射速和换弹速度 |
+| ![ =50x50](../../overclock/image/DamageCryo_2.png) | 低温火药（Refrigerated Gunpowder） | 将伤害类型变为**急冻** | — |
+| ![  =50x50 ](../../overclock/image/DeathSpiral.png) | 死亡回旋（Death Spiral） | +200% 射击速度 <br> +100% 弹匣容量 | 旋转着射出螺旋状的弹幕 |
+| ![  =50x50 ](../../overclock/image/8Directions.png) | 威震八方（Omni Barrel） | +50% 换弹速度 <br> +50% 射击速度 <br> +50% 伤害 <br> +50% 穿透 | 射击变为覆盖八个方向 |
 ## 推荐攻略
 
 

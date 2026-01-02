@@ -50,12 +50,12 @@ order: 5
 
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
-| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量<br>-10% 换弹速度 | 提升弹匣容量，牺牲换弹速度 |
-| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度<br>+25% 换弹速度 | 提升射速和换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害 <br> +25% 换弹速度 | 提升伤害和换弹速度 |
+| ![  =50x50 ](../../overclock/image/BiggerMag.png) | 更大弹匣（Bigger Mags） | +100% 弹匣容量 <br> -10% 换弹速度 | 提升弹匣容量，牺牲换弹速度 |
+| ![  =50x50 ](../../overclock/image/ReloadFirerate.png) | 气压重导(Gas Rerouting) | +25% 射击速度 <br> +25% 换弹速度 | 提升射速和换弹速度 |
 | ![  =50x50 ](../../overclock/image/DamageFire.png) | 油爆弹头（Pan Fried Shells） | 将伤害类型变为**燃烧** | - |
-| ![  =50x50 ](../../overclock/image/Knockback.png) | 橡胶弹尖（Rubber Tip） | +15% 伤害<br>+ 击退效果 | 击退敌人 |
-| ![  =50x50 ](../../overclock/image/SawnOff.png) | 枪管截短（Sawn-Off） | -50% 武器射程<br>-10 精准度 | 更多弹丸，更短射程 |
+| ![  =50x50 ](../../overclock/image/Knockback.png) | 橡胶弹尖（Rubber Tip） | +15% 伤害 <br> + 击退效果 | 击退敌人 |
+| ![  =50x50 ](../../overclock/image/SawnOff.png) | 枪管截短（Sawn-Off） | -50% 武器射程 <br> -10 精准度 | 更多弹丸，更短射程 |
 | ![  =50x50 ](../../overclock/image/Fatboy.png) | 壮男孩（Thick Boy） | - | 将弹匣内所有子弹融合成一发“壮男孩”，极大提升伤害，换弹速度减慢 |
 
 

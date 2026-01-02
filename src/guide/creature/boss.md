@@ -10,8 +10,10 @@ order: 5
 
 ## 描述
 
-**dreadnought**
+## 无畏异虫
+
 ![dreadnought](./image/dreadnought.png)
 
-**dreadnought_twins**
+## 双生无畏
+
 ![dreadnought_twins](./image/dreadnought_twins.png)

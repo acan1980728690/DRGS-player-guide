@@ -60,11 +60,11 @@ order: 10
 | 图标         | 名称     | 效果     | 游戏内描述         |
 | ------------ | -------- | -------- | ------------------ |
 | ![  =50x50 ](../../overclock/image/ReloadDamage.png) | 活力四射（A Little More Oomph!） | +15% 伤害<br>+25% 换弹速度 | 提升伤害和换弹速度 |
-| ![  =50x50 ](../../overclock/image/Mining.png) | Coilgun Mining 伤害 | — | Shots now do 伤害 to the terrain |
+| ![  =50x50 ](../../overclock/image/Mining.png) | 手炮地形破坏（Coilgun Mining Damage） | — | 电磁手炮的射线及尾迹将对岩体造成伤害 |
 | ![  =50x50 ](../../overclock/image/ExplodeReload.png) | 爆破装填（Explosive Reload） | +25% 换弹速度 | 武器开始换弹时将在自身位置产生一次爆炸 |
 | ![  =50x50 ](../../overclock/image/BeamCount.png) | 更多射线（More Beams） | +1 射线 | 增加射线数量 |
 | ![  =50x50 ](../../overclock/image/MoreBeams.png) | 超多射线（Even More Beams） | +3 射线 | 真的挺多的 |
-| ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | Spliced Emitter | +75% 持续寿命<br>+75% 武器射程<br>+75% 伤害 | Better Beams |
+| ![  =50x50 ](../../overclock/image/LongerLastingBeams.png) | 复合发射口（Spliced Emitter） | +50% 持续寿命<br>+50% 武器射程<br>+30% 伤害 | 提升射线品质 |
 
 
 ## 推荐攻略
